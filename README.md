@@ -106,6 +106,9 @@ $ sudo slcand -o -s8 -t hw -S 3000000 /dev/ttyUSB0
 $ sudo ifconfig slcan0 up
 ```
 
+<b>Note:</b> You will need to run the above two commands everytime you connect the VSCOM-USB-CAN to your computer (or probably use udevrules on add/remove actions as mentioned in the <i>xela/xela/manual.pdf</i>)
+
+
 7 - The above command considers that your USB is on /dev/ttyUSB0 
 8 - Check if the network was added 
 
@@ -114,42 +117,23 @@ $ ifconfig
 $ candump slcan0
 ```
 
-9 - Change the server file configuration as follow: 
-
-```bash
-$ sudo nano /etc/xela/xServ.ini
-```
-
-```nano
-[CAN]
-bustype = socketcan
-channel = slcan0
-[viz]
-max_offset = 200
-max_size = 500
-[debug]
-sens_print = full
-[sensor]
-num_brd = 1
-ctr_ver = 2
-ctrl_id = 2
-model = XR1946
-channel = 0
-```
-
-10 - Run the configuration as follow: (make sure you make the xela_config, xela_server, xela_viz executable)
+ 
+9 - Run the configuration as follow: (make sure you make the xela_conf, xela_server, xela_viz executable)
 
 ```bash
 $ cd /etc/xela 
-$ sudo chmod +X xela_config xela_server xela_viz xela_log
-$ ./xela_config 
+$ sudo chmod +x xela_conf xela_server xela_viz xela_log
+$ ./xela_config -s socketcan -c slcan0
 ```
 
-11 - Go to your workspace and launch the file as follow: 
+11 - The last command assumes that <i>ifconfig</i> showed you a network named <i>slcan0</i>, if it was <i>slcanX</i> where <b>X</b> is some number, please use that. Once it is done, it will ask you to save the configuration, press <b>Y</b> and <b>Enter</b>. 
+
+
+12 - Go to your workspace and launch the file as follow: 
 
 ```bash 
-$ cd /path/to/catkin/ws/
-$ catkin_make (or catkin build) 
+$ cd /path/to/catkin/workspace/
+$ catkin_make 
 $ source devel/setup.bash
 $ roslaunch xelo_server service.launch
 ```
