@@ -1,0 +1,2236 @@
+[15/12/2020 11:02:40.509]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[15/12/2020 11:02:40.522]	:XELA:start:XELA:
+[15/12/2020 11:02:40.522]	File: /home/marta
+[15/12/2020 11:02:40.522]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[15/12/2020 11:02:40.522]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[15/12/2020 11:14:03.637]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[15/12/2020 11:14:03.648]	:XELA:start:XELA:
+[15/12/2020 11:14:03.648]	File: /home/marta
+[15/12/2020 11:14:03.648]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[15/12/2020 11:14:03.648]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[15/12/2020 11:20:43.837]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[15/12/2020 11:20:43.849]	:XELA:start:XELA:
+[15/12/2020 11:20:43.850]	File: /home/marta
+[15/12/2020 11:20:43.850]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[15/12/2020 11:20:43.850]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[15/12/2020 11:30:10.344]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[15/12/2020 11:30:10.355]	:XELA:start:XELA:
+[15/12/2020 11:30:10.356]	File: /home/marta
+[15/12/2020 11:30:10.356]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[15/12/2020 11:30:10.356]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[15/12/2020 18:30:31.976]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[15/12/2020 18:30:31.986]	:XELA:start:XELA:
+[15/12/2020 18:30:31.986]	File: /home/marta/catkin_ws/src/xela_server/scripts
+[15/12/2020 18:30:31.986]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[15/12/2020 18:30:31.986]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[15/12/2020 19:51:33.871]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[15/12/2020 19:51:33.882]	:XELA:start:XELA:
+[15/12/2020 19:51:33.882]	File: /home/marta/catkin_ws/src/xela_server/scripts
+[15/12/2020 19:51:33.882]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[15/12/2020 19:51:33.882]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[15/12/2020 19:51:36.500]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[15/12/2020 19:51:36.513]	:XELA:start:XELA:
+[15/12/2020 19:51:36.513]	File: /home/marta/catkin_ws/src/xela_server/scripts
+[15/12/2020 19:51:36.513]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[15/12/2020 19:51:36.513]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[16/12/2020 11:50:23.844]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[16/12/2020 11:50:23.856]	:XELA:start:XELA:
+[16/12/2020 11:50:23.856]	File: /home/marta/catkin_ws/src/xela_server/scripts
+[16/12/2020 11:50:23.856]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[16/12/2020 11:50:23.856]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[03/01/2021 16:13:13.354]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[03/01/2021 16:13:13.367]	:XELA:start:XELA:
+[03/01/2021 16:13:13.368]	File: /home/marta/catkin_ws/src/xela_server/scripts
+[03/01/2021 16:13:13.368]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[03/01/2021 16:13:13.368]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[03/01/2021 16:25:59.434]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[03/01/2021 16:25:59.445]	:XELA:start:XELA:
+[03/01/2021 16:25:59.445]	File: /home/marta/catkin_ws/src/xela_server/scripts
+[03/01/2021 16:25:59.445]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[03/01/2021 16:25:59.445]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[03/01/2021 17:22:24.370]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[03/01/2021 17:22:24.383]	:XELA:start:XELA:
+[03/01/2021 17:22:24.383]	File: /home/marta/catkin_ws/src/xela_server/scripts
+[03/01/2021 17:22:24.383]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[03/01/2021 17:22:24.383]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[04/01/2021 18:39:46.877]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[04/01/2021 18:39:46.883]	:XELA:start:XELA:
+[04/01/2021 18:39:46.883]	File: /home/marta/catkin_ws/src/xela_server/scripts
+[04/01/2021 18:39:46.883]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[04/01/2021 18:39:46.883]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[10/01/2021 12:00:14.251]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[10/01/2021 12:00:14.264]	:XELA:start:XELA:
+[10/01/2021 12:00:14.264]	File: /home/kiyanoush
+[10/01/2021 12:00:14.264]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[10/01/2021 12:00:14.264]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_viz
+[16/01/2021 18:38:55.125]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[16/01/2021 18:38:55.136]	:XELA:start:XELA:
+[16/01/2021 18:38:55.136]	File: /home/marta
+[16/01/2021 18:38:55.136]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[16/01/2021 18:38:55.137]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[16/01/2021 18:39:51.733]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[16/01/2021 18:39:51.743]	:XELA:start:XELA:
+[16/01/2021 18:39:51.743]	File: /home/marta
+[16/01/2021 18:39:51.743]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[16/01/2021 18:39:51.743]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[16/01/2021 18:39:55.833]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[16/01/2021 18:39:55.843]	:XELA:start:XELA:
+[16/01/2021 18:39:55.843]	File: /home/marta
+[16/01/2021 18:39:55.843]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[16/01/2021 18:39:55.843]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[16/01/2021 18:40:18.545]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[16/01/2021 18:40:18.554]	:XELA:start:XELA:
+[16/01/2021 18:40:18.554]	File: /home/marta
+[16/01/2021 18:40:18.554]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[16/01/2021 18:40:18.555]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[17/01/2021 14:03:14.813]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[17/01/2021 14:03:14.823]	:XELA:start:XELA:
+[17/01/2021 14:03:14.823]	File: /home/kiyanoush/catkin_ws/src/xela_server/scripts
+[17/01/2021 14:03:14.823]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[17/01/2021 14:03:14.823]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_viz
+[17/01/2021 14:06:43.479]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[17/01/2021 14:06:43.490]	:XELA:start:XELA:
+[17/01/2021 14:06:43.490]	File: /home/marta/catkin_ws/src/xela_server/scripts
+[17/01/2021 14:06:43.490]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[17/01/2021 14:06:43.490]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[17/01/2021 14:09:30.637]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[17/01/2021 14:09:30.648]	:XELA:start:XELA:
+[17/01/2021 14:09:30.648]	File: /home/marta/catkin_ws/src/xela_server/scripts
+[17/01/2021 14:09:30.648]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[17/01/2021 14:09:30.648]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[17/01/2021 14:09:33.881]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[17/01/2021 14:09:33.892]	:XELA:start:XELA:
+[17/01/2021 14:09:33.892]	File: /home/marta/catkin_ws/src/xela_server/scripts
+[17/01/2021 14:09:33.892]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[17/01/2021 14:09:33.892]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[27/01/2021 10:40:21.075]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[27/01/2021 10:40:21.088]	:XELA:start:XELA:
+[27/01/2021 10:40:21.088]	File: /home/marta
+[27/01/2021 10:40:21.088]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[27/01/2021 10:40:21.088]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[27/01/2021 10:43:49.958]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[27/01/2021 10:43:49.969]	:XELA:start:XELA:
+[27/01/2021 10:43:49.969]	File: /home/marta
+[27/01/2021 10:43:49.969]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[27/01/2021 10:43:49.969]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[27/01/2021 10:45:53.692]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[27/01/2021 10:45:53.703]	:XELA:start:XELA:
+[27/01/2021 10:45:53.703]	File: /home/marta
+[27/01/2021 10:45:53.703]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[27/01/2021 10:45:53.703]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[27/01/2021 10:54:12.620]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[27/01/2021 10:54:12.631]	:XELA:start:XELA:
+[27/01/2021 10:54:12.631]	File: /home/marta
+[27/01/2021 10:54:12.631]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[27/01/2021 10:54:12.631]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[27/01/2021 10:56:23.674]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[27/01/2021 10:56:23.685]	:XELA:start:XELA:
+[27/01/2021 10:56:23.685]	File: /home/marta
+[27/01/2021 10:56:23.685]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[27/01/2021 10:56:23.685]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[05/02/2021 10:40:22.456]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[05/02/2021 10:40:22.469]	:XELA:start:XELA:
+[05/02/2021 10:40:22.469]	File: /home/kiyanoush
+[05/02/2021 10:40:22.469]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[05/02/2021 10:40:22.469]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_viz
+[05/02/2021 11:06:53.513]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[05/02/2021 11:06:53.525]	:XELA:start:XELA:
+[05/02/2021 11:06:53.525]	File: /home/kiyanoush
+[05/02/2021 11:06:53.525]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[05/02/2021 11:06:53.525]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_viz
+[05/02/2021 12:32:14.151]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[05/02/2021 12:32:14.162]	:XELA:start:XELA:
+[05/02/2021 12:32:14.162]	File: /home/kiyanoush
+[05/02/2021 12:32:14.162]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[05/02/2021 12:32:14.163]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_viz
+[05/02/2021 12:34:39.164]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[05/02/2021 12:34:39.175]	:XELA:start:XELA:
+[05/02/2021 12:34:39.175]	File: /home/kiyanoush
+[05/02/2021 12:34:39.175]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[05/02/2021 12:34:39.175]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_viz
+[08/02/2021 14:57:14.243]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[08/02/2021 14:57:14.254]	:XELA:start:XELA:
+[08/02/2021 14:57:14.254]	File: /home/kiyanoush
+[08/02/2021 14:57:14.254]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[08/02/2021 14:57:14.254]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_viz
+[08/02/2021 14:59:13.804]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[08/02/2021 14:59:13.814]	:XELA:start:XELA:
+[08/02/2021 14:59:13.815]	File: /home/kiyanoush
+[08/02/2021 14:59:13.815]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[08/02/2021 14:59:13.815]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_viz
+[08/02/2021 15:02:10.527]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[08/02/2021 15:02:10.538]	:XELA:start:XELA:
+[08/02/2021 15:02:10.538]	File: /home/kiyanoush
+[08/02/2021 15:02:10.538]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[08/02/2021 15:02:10.538]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_viz
+[08/02/2021 15:05:00.870]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[08/02/2021 15:05:00.881]	:XELA:start:XELA:
+[08/02/2021 15:05:00.881]	File: /home/kiyanoush
+[08/02/2021 15:05:00.881]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[08/02/2021 15:05:00.881]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_viz
+[08/02/2021 15:08:03.324]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[08/02/2021 15:08:03.335]	:XELA:start:XELA:
+[08/02/2021 15:08:03.336]	File: /home/kiyanoush
+[08/02/2021 15:08:03.336]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[08/02/2021 15:08:03.336]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_viz
+[08/02/2021 15:09:10.396]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[08/02/2021 15:09:10.407]	:XELA:start:XELA:
+[08/02/2021 15:09:10.407]	File: /home/kiyanoush
+[08/02/2021 15:09:10.407]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[08/02/2021 15:09:10.408]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_viz
+[08/02/2021 15:10:25.941]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[08/02/2021 15:10:25.952]	:XELA:start:XELA:
+[08/02/2021 15:10:25.952]	File: /home/kiyanoush
+[08/02/2021 15:10:25.952]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[08/02/2021 15:10:25.952]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_viz
+[18/02/2021 10:17:13.045]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[18/02/2021 10:17:13.055]	:XELA:start:XELA:
+[18/02/2021 10:17:13.055]	File: /home/marta/catkin_ws/src/xela_server/scripts
+[18/02/2021 10:17:13.055]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[18/02/2021 10:17:13.055]	EXEC: /home/marta/catkin_ws/src/xela_server/scripts/xela_viz
+[22/02/2021 14:15:54.123]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[22/02/2021 14:15:54.137]	:XELA:start:XELA:
+[22/02/2021 14:15:54.137]	File: /home/kiyanoush/Desktop
+[22/02/2021 14:15:54.137]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[22/02/2021 14:15:54.137]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_viz
+[17/03/2021 16:47:58.676]	New log file: /etc/xela/LOG/xela_viz -> /etc/xela/LOG/xela_viz.log
+
+[17/03/2021 16:47:58.691]	:XELA:start:XELA:
+[17/03/2021 16:47:58.691]	File: /home/kiyanoush/test_ws
+[17/03/2021 16:47:58.691]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[17/03/2021 16:47:58.691]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_viz
+[29/07/2021 13:51:28.517]	New log file: /etc/xela/LOG/xela_viz.log
+
+[29/07/2021 13:51:28.520]	Running version 1.7.1a_57506 compiled on Ubuntu 16.04 (xenial)
+[29/07/2021 13:51:28.520]	Detected OS: Ubuntu 16.04 (xenial)
+Environment: 	XDG_VTNR=7
+	XDG_SESSION_ID=c4
+	XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/arshad
+	CLUTTER_IM_MODULE=xim
+	SESSION=ubuntu
+	GPG_AGENT_INFO=/home/arshad/.gnupg/S.gpg-agent:0:1
+	TERM=xterm-256color
+	VTE_VERSION=4205
+	XDG_MENU_PREFIX=gnome-
+	SHELL=/bin/bash
+	ROS_ROOT=/opt/ros/kinetic/share/ros
+	ROS_PACKAGE_PATH=/home/arshad/Documents/franka_ws/src:/opt/ros/kinetic/share
+	QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+	ROS_MASTER_URI=http://localhost:11311
+	WINDOWID=56623114
+	ROS_PYTHON_VERSION=2
+	OLDPWD=/etc
+	UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1006/30258
+	GNOME_KEYRING_CONTROL=
+	ROS_VERSION=1
+	GTK_MODULES=gail:atk-bridge:unity-gtk-module
+	USER=arshad
+	LD_LIBRARY_PATH=/tmp/_MEIMuOZVu:/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+	LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+	QT_ACCESSIBILITY=1
+	UNITY_HAS_3D_SUPPORT=true
+	XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+	XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+	SSH_AUTH_SOCK=/run/user/1006/keyring/ssh
+	DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+	SESSION_MANAGER=local/uolncnrfranka2:@/tmp/.ICE-unix/30479,unix/uolncnrfranka2:/tmp/.ICE-unix/30479
+	XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+	UNITY_DEFAULT_PROFILE=unity
+	DESKTOP_SESSION=ubuntu
+	PATH=/opt/ros/kinetic/bin:/etc/xela/:/home/arshad/bin:/home/arshad/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+	QT_IM_MODULE=ibus
+	QT_QPA_PLATFORMTHEME=appmenu-qt5
+	XDG_SESSION_TYPE=x11
+	PWD=/etc/xela
+	JOB=unity-settings-daemon
+	XMODIFIERS=@im=ibus
+	GNOME_KEYRING_PID=
+	LANG=en_GB.UTF-8
+	GDM_LANG=en_GB
+	MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+	COMPIZ_CONFIG_PROFILE=ubuntu
+	IM_CONFIG_PHASE=1
+	ROSLISP_PACKAGE_DIRECTORIES=/home/arshad/Documents/franka_ws/devel/share/common-lisp
+	GDMSESSION=ubuntu
+	SESSIONTYPE=gnome-session
+	GTK2_MODULES=overlay-scrollbar
+	SHLVL=1
+	HOME=/home/arshad
+	XDG_SEAT=seat0
+	ROS_DISTRO=kinetic
+	LANGUAGE=en_GB:en
+	GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+	UPSTART_INSTANCE=
+	PYTHONPATH=/home/arshad/Documents/franka_ws/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages
+	UPSTART_EVENTS=xsession started
+	XDG_SESSION_DESKTOP=ubuntu
+	LOGNAME=arshad
+	COMPIZ_BIN_PATH=/usr/bin/
+	DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-td5IM9dyav
+	XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+	QT4_IM_MODULE=xim
+	PKG_CONFIG_PATH=/home/arshad/Documents/franka_ws/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig
+	LESSOPEN=| /usr/bin/lesspipe %s
+	INSTANCE=
+	UPSTART_JOB=unity7
+	CMAKE_PREFIX_PATH=/home/arshad/Documents/franka_ws/devel:/opt/ros/kinetic
+	XDG_RUNTIME_DIR=/run/user/1006
+	DISPLAY=:0
+	XDG_CURRENT_DESKTOP=Unity
+	GTK_IM_MODULE=ibus
+	LESSCLOSE=/usr/bin/lesspipe %s %s
+	ROS_ETC_DIR=/opt/ros/kinetic/etc/ros
+	XAUTHORITY=/home/arshad/.Xauthority
+	_=./xela_viz
+	LD_LIBRARY_PATH_ORIG=/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+[29/07/2021 13:51:28.854]	:XELA:start:XELA:
+[29/07/2021 13:51:28.854]	File: /etc/xela
+[29/07/2021 13:51:28.854]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'visualversion': False, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.7.1a_57506'}
+[29/07/2021 13:51:28.855]	EXEC: /etc/xela/xela_viz
+[29/07/2021 13:51:29.055]	Starting new Viz
+[29/07/2021 13:51:29.056]	INI sets DEBUG to [31mOFF[0m
+[29/07/2021 13:51:29.086]	Source: /tmp/_MEIMuOZVu/
+[29/07/2021 13:51:29.088]	IP is 127.0.0.1
+[29/07/2021 13:51:29.088]	New IP is 127.0.0.1
+[29/07/2021 13:51:31.203]	DATA ID: 140000159454096
+[29/07/2021 13:51:31.203]	IP is 127.0.0.1
+[29/07/2021 13:51:31.203]	New IP is 127.0.0.1
+[29/07/2021 13:51:31.203]	Connection on 10.5.32.137:5000
+[29/07/2021 13:51:31.204]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:51:33.218]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:51:35.220]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:51:37.223]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:51:39.225]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:51:41.228]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:51:43.230]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:51:45.233]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:51:47.235]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:51:49.237]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:51:51.240]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:51:53.242]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:51:55.245]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:51:57.247]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:51:59.250]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:52:01.250]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:52:03.253]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:52:05.255]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:52:07.257]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:52:09.259]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:52:11.262]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:52:13.264]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:52:15.267]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:52:17.268]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:52:19.270]	Starting connection on 10.5.32.137:5000
+[29/07/2021 13:52:23.626]	New log file: /etc/xela/LOG/xela_viz.log
+
+[29/07/2021 13:52:23.626]	Running version 1.7.1a_57506 compiled on Ubuntu 16.04 (xenial)
+[29/07/2021 13:52:23.626]	Detected OS: Ubuntu 16.04 (xenial)
+Environment: 	XDG_VTNR=7
+	XDG_SESSION_ID=c4
+	XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/arshad
+	CLUTTER_IM_MODULE=xim
+	SESSION=ubuntu
+	GPG_AGENT_INFO=/home/arshad/.gnupg/S.gpg-agent:0:1
+	TERM=xterm-256color
+	VTE_VERSION=4205
+	XDG_MENU_PREFIX=gnome-
+	SHELL=/bin/bash
+	ROS_ROOT=/opt/ros/kinetic/share/ros
+	ROS_PACKAGE_PATH=/home/arshad/Documents/franka_ws/src:/opt/ros/kinetic/share
+	QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+	ROS_MASTER_URI=http://localhost:11311
+	WINDOWID=56623114
+	ROS_PYTHON_VERSION=2
+	OLDPWD=/etc
+	UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1006/30258
+	GNOME_KEYRING_CONTROL=
+	ROS_VERSION=1
+	GTK_MODULES=gail:atk-bridge:unity-gtk-module
+	USER=arshad
+	LD_LIBRARY_PATH=/tmp/_MEIQzd2ed:/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+	LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+	QT_ACCESSIBILITY=1
+	UNITY_HAS_3D_SUPPORT=true
+	XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+	XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+	SSH_AUTH_SOCK=/run/user/1006/keyring/ssh
+	DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+	SESSION_MANAGER=local/uolncnrfranka2:@/tmp/.ICE-unix/30479,unix/uolncnrfranka2:/tmp/.ICE-unix/30479
+	XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+	UNITY_DEFAULT_PROFILE=unity
+	DESKTOP_SESSION=ubuntu
+	PATH=/opt/ros/kinetic/bin:/etc/xela/:/home/arshad/bin:/home/arshad/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+	QT_IM_MODULE=ibus
+	QT_QPA_PLATFORMTHEME=appmenu-qt5
+	XDG_SESSION_TYPE=x11
+	PWD=/etc/xela
+	JOB=unity-settings-daemon
+	XMODIFIERS=@im=ibus
+	GNOME_KEYRING_PID=
+	LANG=en_GB.UTF-8
+	GDM_LANG=en_GB
+	MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+	COMPIZ_CONFIG_PROFILE=ubuntu
+	IM_CONFIG_PHASE=1
+	ROSLISP_PACKAGE_DIRECTORIES=/home/arshad/Documents/franka_ws/devel/share/common-lisp
+	GDMSESSION=ubuntu
+	SESSIONTYPE=gnome-session
+	GTK2_MODULES=overlay-scrollbar
+	SHLVL=1
+	HOME=/home/arshad
+	XDG_SEAT=seat0
+	ROS_DISTRO=kinetic
+	LANGUAGE=en_GB:en
+	GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+	UPSTART_INSTANCE=
+	PYTHONPATH=/home/arshad/Documents/franka_ws/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages
+	UPSTART_EVENTS=xsession started
+	XDG_SESSION_DESKTOP=ubuntu
+	LOGNAME=arshad
+	COMPIZ_BIN_PATH=/usr/bin/
+	DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-td5IM9dyav
+	XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+	QT4_IM_MODULE=xim
+	PKG_CONFIG_PATH=/home/arshad/Documents/franka_ws/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig
+	LESSOPEN=| /usr/bin/lesspipe %s
+	INSTANCE=
+	UPSTART_JOB=unity7
+	CMAKE_PREFIX_PATH=/home/arshad/Documents/franka_ws/devel:/opt/ros/kinetic
+	XDG_RUNTIME_DIR=/run/user/1006
+	DISPLAY=:0
+	XDG_CURRENT_DESKTOP=Unity
+	GTK_IM_MODULE=ibus
+	LESSCLOSE=/usr/bin/lesspipe %s %s
+	ROS_ETC_DIR=/opt/ros/kinetic/etc/ros
+	XAUTHORITY=/home/arshad/.Xauthority
+	_=./xela_viz
+	LD_LIBRARY_PATH_ORIG=/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+[29/07/2021 13:55:14.154]	New log file: /etc/xela/LOG/xela_viz.log
+
+[29/07/2021 13:55:14.155]	Running version 1.7.1a_57506 compiled on Ubuntu 16.04 (xenial)
+[29/07/2021 13:55:14.155]	Detected OS: Ubuntu 16.04 (xenial)
+Environment: 	XDG_VTNR=7
+	XDG_SESSION_ID=c4
+	XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/arshad
+	CLUTTER_IM_MODULE=xim
+	SESSION=ubuntu
+	GPG_AGENT_INFO=/home/arshad/.gnupg/S.gpg-agent:0:1
+	TERM=xterm-256color
+	VTE_VERSION=4205
+	XDG_MENU_PREFIX=gnome-
+	SHELL=/bin/bash
+	ROS_ROOT=/opt/ros/kinetic/share/ros
+	ROS_PACKAGE_PATH=/home/arshad/Documents/franka_ws/src:/opt/ros/kinetic/share
+	QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+	ROS_MASTER_URI=http://localhost:11311
+	WINDOWID=56623114
+	ROS_PYTHON_VERSION=2
+	OLDPWD=/home/arshad
+	UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1006/30258
+	GNOME_KEYRING_CONTROL=
+	ROS_VERSION=1
+	GTK_MODULES=gail:atk-bridge:unity-gtk-module
+	USER=arshad
+	LD_LIBRARY_PATH=/tmp/_MEIJbc7PM:/tmp/_MEIVz1q8K:/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+	LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+	QT_ACCESSIBILITY=1
+	UNITY_HAS_3D_SUPPORT=true
+	XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+	XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+	SSH_AUTH_SOCK=/run/user/1006/keyring/ssh
+	DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+	SESSION_MANAGER=local/uolncnrfranka2:@/tmp/.ICE-unix/30479,unix/uolncnrfranka2:/tmp/.ICE-unix/30479
+	XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+	UNITY_DEFAULT_PROFILE=unity
+	DESKTOP_SESSION=ubuntu
+	PATH=/opt/ros/kinetic/bin:/etc/xela/:/home/arshad/bin:/home/arshad/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+	QT_IM_MODULE=ibus
+	QT_QPA_PLATFORMTHEME=appmenu-qt5
+	XDG_SESSION_TYPE=x11
+	PWD=/home/arshad/Downloads
+	JOB=unity-settings-daemon
+	XMODIFIERS=@im=ibus
+	GNOME_KEYRING_PID=
+	LANG=en_GB.UTF-8
+	GDM_LANG=en_GB
+	MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+	COMPIZ_CONFIG_PROFILE=ubuntu
+	IM_CONFIG_PHASE=1
+	ROSLISP_PACKAGE_DIRECTORIES=/home/arshad/Documents/franka_ws/devel/share/common-lisp
+	GDMSESSION=ubuntu
+	SESSIONTYPE=gnome-session
+	GTK2_MODULES=overlay-scrollbar
+	SHLVL=1
+	HOME=/home/arshad
+	XDG_SEAT=seat0
+	ROS_DISTRO=kinetic
+	LANGUAGE=en_GB:en
+	GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+	UPSTART_INSTANCE=
+	PYTHONPATH=/home/arshad/Documents/franka_ws/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages
+	UPSTART_EVENTS=xsession started
+	XDG_SESSION_DESKTOP=ubuntu
+	LOGNAME=arshad
+	COMPIZ_BIN_PATH=/usr/bin/
+	DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-td5IM9dyav
+	XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+	QT4_IM_MODULE=xim
+	PKG_CONFIG_PATH=/home/arshad/Documents/franka_ws/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig
+	LESSOPEN=| /usr/bin/lesspipe %s
+	INSTANCE=
+	UPSTART_JOB=unity7
+	CMAKE_PREFIX_PATH=/home/arshad/Documents/franka_ws/devel:/opt/ros/kinetic
+	XDG_RUNTIME_DIR=/run/user/1006
+	DISPLAY=:0
+	XDG_CURRENT_DESKTOP=Unity
+	GTK_IM_MODULE=ibus
+	LESSCLOSE=/usr/bin/lesspipe %s %s
+	ROS_ETC_DIR=/opt/ros/kinetic/etc/ros
+	XAUTHORITY=/home/arshad/.Xauthority
+	_=./xela_installer_16
+	LD_LIBRARY_PATH_ORIG=/tmp/_MEIVz1q8K:/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+[29/07/2021 16:07:23.694]	New log file: /etc/xela/LOG/xela_viz.log
+
+[29/07/2021 16:07:23.695]	Running version 1.7.1a_57506 compiled on Ubuntu 16.04 (xenial)
+[29/07/2021 16:07:23.695]	Detected OS: Ubuntu 16.04 (xenial)
+Environment: 	XDG_VTNR=7
+	XDG_SESSION_ID=c2
+	XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/arshad
+	CLUTTER_IM_MODULE=xim
+	SESSION=ubuntu
+	GPG_AGENT_INFO=/home/arshad/.gnupg/S.gpg-agent:0:1
+	TERM=xterm-256color
+	VTE_VERSION=4205
+	XDG_MENU_PREFIX=gnome-
+	SHELL=/bin/bash
+	ROS_ROOT=/opt/ros/kinetic/share/ros
+	ROS_PACKAGE_PATH=/home/arshad/Documents/franka_ws/src:/opt/ros/kinetic/share
+	QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+	ROS_MASTER_URI=http://localhost:11311
+	WINDOWID=56623114
+	ROS_PYTHON_VERSION=2
+	OLDPWD=/home/arshad
+	UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1006/2393
+	GNOME_KEYRING_CONTROL=
+	ROS_VERSION=1
+	GTK_MODULES=gail:atk-bridge:unity-gtk-module
+	USER=arshad
+	LD_LIBRARY_PATH=/tmp/_MEIOPTuWE:/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+	LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+	QT_ACCESSIBILITY=1
+	UNITY_HAS_3D_SUPPORT=true
+	XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+	XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+	SSH_AUTH_SOCK=/run/user/1006/keyring/ssh
+	DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+	SESSION_MANAGER=local/uolncnrfranka2:@/tmp/.ICE-unix/2623,unix/uolncnrfranka2:/tmp/.ICE-unix/2623
+	XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+	UNITY_DEFAULT_PROFILE=unity
+	DESKTOP_SESSION=ubuntu
+	PATH=/opt/ros/kinetic/bin:/etc/xela:/home/arshad/bin:/home/arshad/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+	QT_IM_MODULE=ibus
+	QT_QPA_PLATFORMTHEME=appmenu-qt5
+	XDG_SESSION_TYPE=x11
+	PWD=/etc/xela
+	JOB=unity-settings-daemon
+	XMODIFIERS=@im=ibus
+	GNOME_KEYRING_PID=
+	LANG=en_GB.UTF-8
+	GDM_LANG=en_GB
+	MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+	COMPIZ_CONFIG_PROFILE=ubuntu
+	IM_CONFIG_PHASE=1
+	ROSLISP_PACKAGE_DIRECTORIES=/home/arshad/Documents/franka_ws/devel/share/common-lisp
+	GDMSESSION=ubuntu
+	SESSIONTYPE=gnome-session
+	GTK2_MODULES=overlay-scrollbar
+	SHLVL=1
+	HOME=/home/arshad
+	XDG_SEAT=seat0
+	ROS_DISTRO=kinetic
+	LANGUAGE=en_GB:en
+	GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+	UPSTART_INSTANCE=
+	PYTHONPATH=/home/arshad/Documents/franka_ws/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages
+	UPSTART_EVENTS=xsession started
+	XDG_SESSION_DESKTOP=ubuntu
+	LOGNAME=arshad
+	COMPIZ_BIN_PATH=/usr/bin/
+	DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-SpzkhfFjxO
+	XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+	QT4_IM_MODULE=xim
+	PKG_CONFIG_PATH=/home/arshad/Documents/franka_ws/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig
+	LESSOPEN=| /usr/bin/lesspipe %s
+	INSTANCE=
+	UPSTART_JOB=unity7
+	CMAKE_PREFIX_PATH=/home/arshad/Documents/franka_ws/devel:/opt/ros/kinetic
+	XDG_RUNTIME_DIR=/run/user/1006
+	DISPLAY=:0
+	XDG_CURRENT_DESKTOP=Unity
+	GTK_IM_MODULE=ibus
+	LESSCLOSE=/usr/bin/lesspipe %s %s
+	ROS_ETC_DIR=/opt/ros/kinetic/etc/ros
+	XAUTHORITY=/home/arshad/.Xauthority
+	_=./xela_viz
+	LD_LIBRARY_PATH_ORIG=/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+[29/07/2021 16:07:23.839]	:XELA:start:XELA:
+[29/07/2021 16:07:23.839]	File: /etc/xela
+[29/07/2021 16:07:23.839]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 1, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'visualversion': False, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.7.1a_57506'}
+[29/07/2021 16:07:23.840]	EXEC: /etc/xela/xela_viz
+[29/07/2021 16:07:24.040]	Starting new Viz
+[29/07/2021 16:07:24.040]	INI sets DEBUG to [31mOFF[0m
+[29/07/2021 16:07:24.065]	Source: /tmp/_MEIOPTuWE/
+[29/07/2021 16:07:24.066]	IP is 127.0.0.1
+[29/07/2021 16:07:24.066]	New IP is 127.0.0.1
+[29/07/2021 16:07:26.156]	DATA ID: 140484190368528
+[29/07/2021 16:07:26.156]	IP is 127.0.0.1
+[29/07/2021 16:07:26.156]	New IP is 127.0.0.1
+[29/07/2021 16:07:26.156]	Connection on 10.5.32.137:5000
+[29/07/2021 16:07:26.156]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:07:28.170]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:07:30.172]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:07:32.174]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:07:34.177]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:07:36.177]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:07:38.179]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:07:40.182]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:07:42.184]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:07:44.185]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:07:46.187]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:07:48.190]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:07:50.192]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:07:52.193]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:07:54.195]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:07:55.104]	Service is stopping
+[29/07/2021 16:07:55.104]	Disconnecting from server
+[29/07/2021 16:07:56.198]	:XELA:finish:XELA:
+
+[29/07/2021 16:07:58.739]	New log file: /etc/xela/LOG/xela_viz.log
+
+[29/07/2021 16:07:58.739]	Running version 1.7.1a_57506 compiled on Ubuntu 16.04 (xenial)
+[29/07/2021 16:07:58.739]	Detected OS: Ubuntu 16.04 (xenial)
+Environment: 	XDG_VTNR=7
+	XDG_SESSION_ID=c2
+	XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/arshad
+	CLUTTER_IM_MODULE=xim
+	SESSION=ubuntu
+	GPG_AGENT_INFO=/home/arshad/.gnupg/S.gpg-agent:0:1
+	TERM=xterm-256color
+	VTE_VERSION=4205
+	XDG_MENU_PREFIX=gnome-
+	SHELL=/bin/bash
+	ROS_ROOT=/opt/ros/kinetic/share/ros
+	ROS_PACKAGE_PATH=/home/arshad/Documents/franka_ws/src:/opt/ros/kinetic/share
+	QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+	ROS_MASTER_URI=http://localhost:11311
+	WINDOWID=56623114
+	ROS_PYTHON_VERSION=2
+	OLDPWD=/home/arshad
+	UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1006/2393
+	GNOME_KEYRING_CONTROL=
+	ROS_VERSION=1
+	GTK_MODULES=gail:atk-bridge:unity-gtk-module
+	USER=arshad
+	LD_LIBRARY_PATH=/tmp/_MEIV8X3W1:/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+	LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+	QT_ACCESSIBILITY=1
+	UNITY_HAS_3D_SUPPORT=true
+	XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+	XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+	SSH_AUTH_SOCK=/run/user/1006/keyring/ssh
+	DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+	SESSION_MANAGER=local/uolncnrfranka2:@/tmp/.ICE-unix/2623,unix/uolncnrfranka2:/tmp/.ICE-unix/2623
+	XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+	UNITY_DEFAULT_PROFILE=unity
+	DESKTOP_SESSION=ubuntu
+	PATH=/opt/ros/kinetic/bin:/etc/xela:/home/arshad/bin:/home/arshad/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+	QT_IM_MODULE=ibus
+	QT_QPA_PLATFORMTHEME=appmenu-qt5
+	XDG_SESSION_TYPE=x11
+	PWD=/etc/xela
+	JOB=unity-settings-daemon
+	XMODIFIERS=@im=ibus
+	GNOME_KEYRING_PID=
+	LANG=en_GB.UTF-8
+	GDM_LANG=en_GB
+	MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+	COMPIZ_CONFIG_PROFILE=ubuntu
+	IM_CONFIG_PHASE=1
+	ROSLISP_PACKAGE_DIRECTORIES=/home/arshad/Documents/franka_ws/devel/share/common-lisp
+	GDMSESSION=ubuntu
+	SESSIONTYPE=gnome-session
+	GTK2_MODULES=overlay-scrollbar
+	SHLVL=1
+	HOME=/home/arshad
+	XDG_SEAT=seat0
+	ROS_DISTRO=kinetic
+	LANGUAGE=en_GB:en
+	GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+	UPSTART_INSTANCE=
+	PYTHONPATH=/home/arshad/Documents/franka_ws/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages
+	UPSTART_EVENTS=xsession started
+	XDG_SESSION_DESKTOP=ubuntu
+	LOGNAME=arshad
+	COMPIZ_BIN_PATH=/usr/bin/
+	DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-SpzkhfFjxO
+	XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+	QT4_IM_MODULE=xim
+	PKG_CONFIG_PATH=/home/arshad/Documents/franka_ws/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig
+	LESSOPEN=| /usr/bin/lesspipe %s
+	INSTANCE=
+	UPSTART_JOB=unity7
+	CMAKE_PREFIX_PATH=/home/arshad/Documents/franka_ws/devel:/opt/ros/kinetic
+	XDG_RUNTIME_DIR=/run/user/1006
+	DISPLAY=:0
+	XDG_CURRENT_DESKTOP=Unity
+	GTK_IM_MODULE=ibus
+	LESSCLOSE=/usr/bin/lesspipe %s %s
+	ROS_ETC_DIR=/opt/ros/kinetic/etc/ros
+	XAUTHORITY=/home/arshad/.Xauthority
+	_=./xela_viz
+	LD_LIBRARY_PATH_ORIG=/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+[29/07/2021 16:08:25.980]	New log file: /etc/xela/LOG/xela_viz.log
+
+[29/07/2021 16:08:25.980]	Running version 1.7.1a_57506 compiled on Ubuntu 16.04 (xenial)
+[29/07/2021 16:08:25.980]	Detected OS: Ubuntu 16.04 (xenial)
+Environment: 	XDG_VTNR=7
+	XDG_SESSION_ID=c2
+	XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/arshad
+	CLUTTER_IM_MODULE=xim
+	SESSION=ubuntu
+	GPG_AGENT_INFO=/home/arshad/.gnupg/S.gpg-agent:0:1
+	TERM=xterm-256color
+	VTE_VERSION=4205
+	XDG_MENU_PREFIX=gnome-
+	SHELL=/bin/bash
+	ROS_ROOT=/opt/ros/kinetic/share/ros
+	ROS_PACKAGE_PATH=/home/arshad/Documents/franka_ws/src:/opt/ros/kinetic/share
+	QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+	ROS_MASTER_URI=http://localhost:11311
+	WINDOWID=56623114
+	ROS_PYTHON_VERSION=2
+	OLDPWD=/home/arshad
+	UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1006/2393
+	GNOME_KEYRING_CONTROL=
+	ROS_VERSION=1
+	GTK_MODULES=gail:atk-bridge:unity-gtk-module
+	USER=arshad
+	LD_LIBRARY_PATH=/tmp/_MEIRmn3F2:/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+	LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+	QT_ACCESSIBILITY=1
+	UNITY_HAS_3D_SUPPORT=true
+	XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+	XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+	SSH_AUTH_SOCK=/run/user/1006/keyring/ssh
+	DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+	SESSION_MANAGER=local/uolncnrfranka2:@/tmp/.ICE-unix/2623,unix/uolncnrfranka2:/tmp/.ICE-unix/2623
+	XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+	UNITY_DEFAULT_PROFILE=unity
+	DESKTOP_SESSION=ubuntu
+	PATH=/opt/ros/kinetic/bin:/etc/xela:/home/arshad/bin:/home/arshad/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+	QT_IM_MODULE=ibus
+	QT_QPA_PLATFORMTHEME=appmenu-qt5
+	XDG_SESSION_TYPE=x11
+	PWD=/etc/xela
+	JOB=unity-settings-daemon
+	XMODIFIERS=@im=ibus
+	GNOME_KEYRING_PID=
+	LANG=en_GB.UTF-8
+	GDM_LANG=en_GB
+	MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+	COMPIZ_CONFIG_PROFILE=ubuntu
+	IM_CONFIG_PHASE=1
+	ROSLISP_PACKAGE_DIRECTORIES=/home/arshad/Documents/franka_ws/devel/share/common-lisp
+	GDMSESSION=ubuntu
+	SESSIONTYPE=gnome-session
+	GTK2_MODULES=overlay-scrollbar
+	SHLVL=1
+	HOME=/home/arshad
+	XDG_SEAT=seat0
+	ROS_DISTRO=kinetic
+	LANGUAGE=en_GB:en
+	GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+	UPSTART_INSTANCE=
+	PYTHONPATH=/home/arshad/Documents/franka_ws/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages
+	UPSTART_EVENTS=xsession started
+	XDG_SESSION_DESKTOP=ubuntu
+	LOGNAME=arshad
+	COMPIZ_BIN_PATH=/usr/bin/
+	DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-SpzkhfFjxO
+	XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+	QT4_IM_MODULE=xim
+	PKG_CONFIG_PATH=/home/arshad/Documents/franka_ws/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig
+	LESSOPEN=| /usr/bin/lesspipe %s
+	INSTANCE=
+	UPSTART_JOB=unity7
+	CMAKE_PREFIX_PATH=/home/arshad/Documents/franka_ws/devel:/opt/ros/kinetic
+	XDG_RUNTIME_DIR=/run/user/1006
+	DISPLAY=:0
+	XDG_CURRENT_DESKTOP=Unity
+	GTK_IM_MODULE=ibus
+	LESSCLOSE=/usr/bin/lesspipe %s %s
+	ROS_ETC_DIR=/opt/ros/kinetic/etc/ros
+	XAUTHORITY=/home/arshad/.Xauthority
+	_=./xela_viz
+	LD_LIBRARY_PATH_ORIG=/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+[29/07/2021 16:08:26.113]	:XELA:start:XELA:
+[29/07/2021 16:08:26.114]	File: /etc/xela
+[29/07/2021 16:08:26.114]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 3, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'visualversion': False, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.7.1a_57506'}
+[29/07/2021 16:08:26.114]	EXEC: /etc/xela/xela_viz
+[29/07/2021 16:08:26.314]	Starting new Viz
+[29/07/2021 16:08:26.315]	INI sets DEBUG to [31mOFF[0m
+[29/07/2021 16:08:26.336]	Source: /tmp/_MEIRmn3F2/
+[29/07/2021 16:08:26.337]	IP is 127.0.0.1
+[29/07/2021 16:08:26.338]	New IP is 127.0.0.1
+[29/07/2021 16:08:28.421]	DATA ID: 140390279402256
+[29/07/2021 16:08:28.421]	IP is 127.0.0.1
+[29/07/2021 16:08:28.422]	New IP is 127.0.0.1
+[29/07/2021 16:08:28.422]	Connection on 10.5.32.137:5000
+[29/07/2021 16:08:28.422]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:08:30.434]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:08:32.435]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:08:34.437]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:08:34.523]	Service is stopping
+[29/07/2021 16:08:34.523]	Disconnecting from server
+[29/07/2021 16:08:52.219]	New log file: /etc/xela/LOG/xela_viz.log
+
+[29/07/2021 16:08:52.219]	Running version 1.7.1a_57506 compiled on Ubuntu 16.04 (xenial)
+[29/07/2021 16:08:52.220]	Detected OS: Ubuntu 16.04 (xenial)
+Environment: 	XDG_VTNR=7
+	XDG_SESSION_ID=c2
+	XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/arshad
+	CLUTTER_IM_MODULE=xim
+	SESSION=ubuntu
+	GPG_AGENT_INFO=/home/arshad/.gnupg/S.gpg-agent:0:1
+	TERM=xterm-256color
+	VTE_VERSION=4205
+	XDG_MENU_PREFIX=gnome-
+	SHELL=/bin/bash
+	ROS_ROOT=/opt/ros/kinetic/share/ros
+	ROS_PACKAGE_PATH=/home/arshad/Documents/franka_ws/src:/opt/ros/kinetic/share
+	QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+	ROS_MASTER_URI=http://localhost:11311
+	WINDOWID=56623114
+	ROS_PYTHON_VERSION=2
+	OLDPWD=/home/arshad
+	UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1006/2393
+	GNOME_KEYRING_CONTROL=
+	ROS_VERSION=1
+	GTK_MODULES=gail:atk-bridge:unity-gtk-module
+	USER=arshad
+	LD_LIBRARY_PATH=/tmp/_MEIiijFf5:/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+	LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+	QT_ACCESSIBILITY=1
+	UNITY_HAS_3D_SUPPORT=true
+	XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+	XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+	SSH_AUTH_SOCK=/run/user/1006/keyring/ssh
+	DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+	SESSION_MANAGER=local/uolncnrfranka2:@/tmp/.ICE-unix/2623,unix/uolncnrfranka2:/tmp/.ICE-unix/2623
+	XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+	UNITY_DEFAULT_PROFILE=unity
+	DESKTOP_SESSION=ubuntu
+	PATH=/opt/ros/kinetic/bin:/etc/xela:/home/arshad/bin:/home/arshad/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+	QT_IM_MODULE=ibus
+	QT_QPA_PLATFORMTHEME=appmenu-qt5
+	XDG_SESSION_TYPE=x11
+	PWD=/etc/xela
+	JOB=unity-settings-daemon
+	XMODIFIERS=@im=ibus
+	GNOME_KEYRING_PID=
+	LANG=en_GB.UTF-8
+	GDM_LANG=en_GB
+	MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+	COMPIZ_CONFIG_PROFILE=ubuntu
+	IM_CONFIG_PHASE=1
+	ROSLISP_PACKAGE_DIRECTORIES=/home/arshad/Documents/franka_ws/devel/share/common-lisp
+	GDMSESSION=ubuntu
+	SESSIONTYPE=gnome-session
+	GTK2_MODULES=overlay-scrollbar
+	SHLVL=1
+	HOME=/home/arshad
+	XDG_SEAT=seat0
+	ROS_DISTRO=kinetic
+	LANGUAGE=en_GB:en
+	GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+	UPSTART_INSTANCE=
+	PYTHONPATH=/home/arshad/Documents/franka_ws/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages
+	UPSTART_EVENTS=xsession started
+	XDG_SESSION_DESKTOP=ubuntu
+	LOGNAME=arshad
+	COMPIZ_BIN_PATH=/usr/bin/
+	DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-SpzkhfFjxO
+	XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+	QT4_IM_MODULE=xim
+	PKG_CONFIG_PATH=/home/arshad/Documents/franka_ws/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig
+	LESSOPEN=| /usr/bin/lesspipe %s
+	INSTANCE=
+	UPSTART_JOB=unity7
+	CMAKE_PREFIX_PATH=/home/arshad/Documents/franka_ws/devel:/opt/ros/kinetic
+	XDG_RUNTIME_DIR=/run/user/1006
+	DISPLAY=:0
+	XDG_CURRENT_DESKTOP=Unity
+	GTK_IM_MODULE=ibus
+	LESSCLOSE=/usr/bin/lesspipe %s %s
+	ROS_ETC_DIR=/opt/ros/kinetic/etc/ros
+	XAUTHORITY=/home/arshad/.Xauthority
+	_=./xela_viz
+	LD_LIBRARY_PATH_ORIG=/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+[29/07/2021 16:08:52.353]	:XELA:start:XELA:
+[29/07/2021 16:08:52.353]	File: /etc/xela
+[29/07/2021 16:08:52.353]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 3, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'visualversion': False, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.7.1a_57506'}
+[29/07/2021 16:08:52.353]	EXEC: /etc/xela/xela_viz
+[29/07/2021 16:08:52.554]	Starting new Viz
+[29/07/2021 16:08:52.555]	INI sets DEBUG to [31mOFF[0m
+[29/07/2021 16:08:52.577]	Source: /tmp/_MEIiijFf5/
+[29/07/2021 16:08:52.578]	IP is 127.0.0.1
+[29/07/2021 16:08:52.578]	New IP is 127.0.0.1
+[29/07/2021 16:08:54.654]	DATA ID: 140271775367824
+[29/07/2021 16:08:54.655]	IP is 127.0.0.1
+[29/07/2021 16:08:54.655]	New IP is 127.0.0.1
+[29/07/2021 16:08:54.655]	Connection on 10.5.32.137:5000
+[29/07/2021 16:08:54.655]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:08:56.669]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:08:58.671]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:00.674]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:02.676]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:04.678]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:06.681]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:08.682]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:10.684]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:12.685]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:14.687]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:16.689]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:18.691]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:20.693]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:22.695]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:24.697]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:26.698]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:28.700]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:30.703]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:32.705]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:34.706]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:36.708]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:38.710]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:40.712]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:42.715]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:44.717]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:46.719]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:48.722]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:50.724]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:52.727]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:54.729]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:56.731]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:09:58.733]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:00.735]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:02.738]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:04.741]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:06.743]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:08.745]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:10.746]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:12.749]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:14.751]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:16.754]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:18.756]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:20.758]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:22.761]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:24.763]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:26.765]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:28.768]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:30.770]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:32.772]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:34.773]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:36.776]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:38.777]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:40.779]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:42.782]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:44.784]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:46.786]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:48.789]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:50.791]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:52.793]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:54.796]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:56.798]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:10:58.800]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:00.803]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:02.805]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:04.807]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:06.809]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:08.811]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:10.814]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:12.816]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:14.818]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:16.821]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:18.823]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:20.825]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:22.828]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:24.830]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:26.832]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:28.835]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:30.837]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:32.839]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:34.841]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:36.843]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:38.846]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:40.848]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:42.849]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:44.851]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:46.853]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:48.855]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:50.858]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:52.861]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:54.863]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:56.866]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:11:58.868]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:00.870]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:02.873]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:04.875]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:06.877]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:08.880]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:10.882]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:12.884]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:14.887]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:16.889]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:18.891]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:20.894]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:22.896]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:24.898]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:26.901]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:28.903]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:30.905]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:32.907]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:34.910]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:36.912]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:38.914]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:40.916]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:42.918]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:44.921]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:46.921]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:48.924]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:50.926]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:52.929]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:54.931]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:56.933]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:12:58.936]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:00.938]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:02.941]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:04.943]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:06.945]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:08.947]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:10.950]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:12.952]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:14.954]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:16.957]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:18.959]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:20.960]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:22.963]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:24.965]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:26.967]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:28.970]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:30.972]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:32.973]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:34.974]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:36.976]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:38.977]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:40.977]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:42.980]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:44.982]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:46.984]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:48.985]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:50.987]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:52.990]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:54.992]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:56.994]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:13:58.997]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:00.999]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:03.002]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:05.004]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:07.006]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:09.009]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:11.009]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:13.011]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:15.014]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:17.016]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:19.017]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:21.019]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:23.022]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:25.024]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:27.026]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:29.029]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:31.031]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:33.033]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:35.036]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:37.038]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:39.041]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:41.041]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:43.043]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:45.046]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:47.048]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:49.049]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:51.050]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:53.053]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:55.055]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:57.058]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:14:59.060]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:01.062]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:03.065]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:05.066]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:07.067]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:09.069]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:11.071]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:13.073]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:15.076]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:17.078]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:19.080]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:21.083]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:23.085]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:25.088]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:27.089]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:29.091]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:31.094]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:33.096]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:35.098]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:37.101]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:39.103]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:41.105]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:43.107]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:45.109]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:47.111]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:49.114]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:51.116]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:53.118]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:55.119]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:57.122]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:15:59.124]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:01.126]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:03.129]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:05.131]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:07.133]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:09.134]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:11.136]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:13.137]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:15.139]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:17.142]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:19.145]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:21.145]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:23.147]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:25.150]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:27.152]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:29.154]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:31.156]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:33.156]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:35.159]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:37.161]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:39.163]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:41.166]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:43.168]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:45.171]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:47.173]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:49.175]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:51.178]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:53.180]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:55.182]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:57.185]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:16:59.187]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:01.189]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:03.190]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:05.192]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:07.195]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:09.197]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:11.199]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:13.202]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:15.204]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:17.207]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:19.209]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:21.211]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:23.214]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:25.216]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:27.219]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:29.221]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:31.223]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:33.226]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:35.228]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:37.230]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:39.233]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:41.235]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:43.237]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:45.239]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:47.242]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:49.244]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:51.246]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:53.249]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:55.251]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:57.253]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:17:59.256]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:01.258]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:03.260]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:05.263]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:07.265]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:09.267]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:11.270]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:13.271]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:15.274]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:17.276]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:19.277]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:21.279]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:23.282]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:25.284]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:27.286]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:29.288]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:31.289]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:33.292]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:35.294]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:37.296]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:39.299]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:41.301]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:43.303]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:45.306]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:47.308]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:49.310]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:51.313]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:53.315]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:55.318]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:57.320]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:18:59.321]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:01.324]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:03.326]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:05.328]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:07.330]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:09.333]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:11.334]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:13.337]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:15.339]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:17.341]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:19.344]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:21.346]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:23.349]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:25.351]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:27.353]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:29.354]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:31.356]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:33.357]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:35.359]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:37.361]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:39.363]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:41.365]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:43.367]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:45.370]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:47.372]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:49.375]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:51.377]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:53.380]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:55.382]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:57.385]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:19:59.386]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:01.388]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:03.390]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:05.393]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:07.395]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:09.397]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:11.400]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:13.402]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:15.404]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:17.407]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:19.409]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:21.411]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:23.413]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:25.415]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:27.417]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:29.419]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:31.422]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:33.422]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:35.424]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:37.427]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:39.429]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:41.431]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:43.433]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:45.436]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:47.437]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:49.439]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:51.442]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:53.444]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:55.446]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:57.449]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:20:59.451]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:01.453]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:03.456]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:05.458]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:07.460]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:09.461]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:11.463]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:13.466]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:15.468]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:17.470]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:19.473]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:21.475]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:23.478]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:25.480]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:27.482]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:29.485]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:31.487]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:33.489]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:35.492]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:37.494]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:39.496]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:41.499]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:43.502]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:45.504]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:47.505]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:49.507]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:51.510]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:53.512]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:55.513]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:57.515]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:21:59.518]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:01.520]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:03.522]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:05.525]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:07.527]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:09.529]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:11.532]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:13.534]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:15.536]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:17.539]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:19.541]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:21.542]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:23.544]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:25.545]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:27.547]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:29.549]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:31.551]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:33.554]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:35.557]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:37.559]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:39.561]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:41.564]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:43.565]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:45.567]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:47.570]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:49.572]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:51.574]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:53.577]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:55.579]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:57.581]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:22:59.584]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:01.586]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:03.588]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:05.590]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:07.593]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:09.595]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:11.598]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:13.600]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:15.602]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:17.605]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:19.607]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:21.609]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:23.611]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:25.614]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:27.616]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:29.619]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:31.622]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:33.624]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:35.626]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:37.629]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:39.629]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:41.631]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:43.634]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:45.634]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:47.636]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:49.639]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:51.641]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:53.644]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:55.646]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:57.648]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:23:59.649]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:01.651]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:03.654]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:05.655]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:07.657]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:09.659]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:11.662]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:13.664]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:15.667]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:17.669]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:19.670]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:21.672]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:23.675]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:25.677]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:27.679]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:29.682]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:31.682]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:33.685]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:35.687]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:37.689]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:39.691]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:41.693]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:43.695]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:45.698]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:47.700]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:49.702]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:51.704]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:53.706]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:55.709]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:57.711]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:24:59.714]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:01.716]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:03.718]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:05.720]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:07.721]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:09.723]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:11.726]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:13.728]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:15.731]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:17.733]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:19.735]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:21.738]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:23.740]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:25.742]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:27.744]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:29.747]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:31.749]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:33.751]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:35.754]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:37.756]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:39.758]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:41.761]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:43.763]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:45.766]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:47.768]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:49.770]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:51.773]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:53.773]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:55.775]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:57.777]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:25:59.779]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:01.782]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:03.784]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:05.787]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:07.789]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:09.791]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:11.793]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:13.795]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:15.798]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:17.800]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:19.802]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:21.804]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:23.805]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:25.806]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:27.808]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:29.811]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:31.813]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:33.815]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:35.817]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:37.819]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:39.821]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:41.825]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:43.827]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:45.830]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:47.832]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:49.833]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:51.835]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:53.838]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:55.840]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:57.843]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:26:59.845]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:01.847]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:03.849]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:05.851]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:07.854]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:09.856]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:11.857]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:13.859]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:15.861]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:17.863]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:19.866]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:21.868]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:23.870]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:25.873]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:27.875]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:29.877]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:31.880]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:33.882]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:35.884]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:37.887]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:39.889]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:41.891]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:43.894]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:45.896]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:47.898]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:49.901]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:51.903]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:53.905]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:55.907]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:57.909]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:27:59.910]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:01.913]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:03.915]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:05.917]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:07.920]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:09.922]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:11.924]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:13.926]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:15.928]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:17.930]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:19.931]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:21.933]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:23.935]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:25.938]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:27.940]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:29.944]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:31.947]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:33.949]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:35.951]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:37.953]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:39.955]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:41.958]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:43.960]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:45.962]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:47.965]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:49.967]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:51.970]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:53.973]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:55.975]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:57.977]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:28:59.980]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:01.982]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:03.984]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:05.987]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:07.989]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:09.991]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:11.994]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:13.996]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:15.998]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:18.001]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:20.003]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:22.005]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:24.007]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:26.009]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:28.011]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:30.014]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:32.016]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:34.018]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:36.021]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:38.023]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:40.025]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:42.028]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:44.030]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:46.033]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:48.035]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:50.038]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:52.040]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:54.041]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:56.043]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:29:58.045]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:00.048]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:02.050]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:04.053]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:06.055]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:08.057]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:10.059]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:12.061]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:14.063]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:16.066]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:18.068]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:20.070]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:22.072]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:24.074]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:26.076]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:28.077]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:30.079]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:32.082]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:34.084]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:36.085]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:38.087]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:40.090]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:42.092]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:44.095]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:46.097]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:48.099]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:50.101]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:52.103]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:54.105]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:56.108]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:30:58.110]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:00.111]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:02.112]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:04.114]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:06.117]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:08.119]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:10.121]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:12.124]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:14.126]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:16.128]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:18.131]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:20.133]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:22.135]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:24.138]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:26.140]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:28.143]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:30.145]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:32.148]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:34.150]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:36.152]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:38.155]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:40.157]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:42.159]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:44.162]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:46.164]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:48.165]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:50.167]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:52.169]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:54.171]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:56.174]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:31:58.176]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:00.178]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:02.181]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:04.183]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:06.185]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:08.188]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:10.190]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:12.192]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:14.193]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:16.195]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:18.198]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:20.200]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:22.202]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:24.205]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:26.208]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:28.210]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:30.212]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:32.215]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:34.217]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:36.219]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:38.221]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:40.223]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:42.225]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:44.227]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:46.230]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:48.232]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:50.234]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:52.237]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:54.239]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:56.241]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:32:58.244]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:00.246]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:02.248]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:04.251]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:06.253]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:08.255]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:10.258]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:12.260]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:14.262]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:16.265]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:18.267]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:20.270]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:22.272]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:24.275]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:26.277]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:28.279]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:30.282]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:32.284]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:34.286]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:36.289]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:38.291]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:40.293]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:42.296]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:44.298]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:46.300]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:48.301]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:50.303]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:52.306]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:54.308]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:56.310]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:33:58.313]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:00.315]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:02.317]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:04.319]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:06.322]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:08.324]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:10.327]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:12.329]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:14.332]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:16.334]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:18.337]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:20.337]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:22.339]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:24.342]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:26.344]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:28.345]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:30.347]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:32.349]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:34.351]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:36.354]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:38.356]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:40.358]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:42.361]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:44.363]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:46.365]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:48.368]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:50.369]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:52.372]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:54.373]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:56.374]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:34:58.376]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:00.379]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:02.381]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:04.383]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:06.386]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:08.389]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:10.389]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:12.391]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:14.394]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:16.395]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:18.397]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:20.399]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:22.402]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:24.403]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:26.404]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:28.407]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:30.409]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:32.410]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:34.412]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:36.415]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:38.416]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:40.418]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:42.420]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:44.422]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:46.425]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:48.426]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:50.428]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:52.431]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:54.433]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:56.435]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:35:58.437]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:00.439]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:02.441]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:04.443]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:06.446]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:08.448]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:10.450]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:12.453]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:14.455]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:16.457]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:18.460]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:20.462]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:22.463]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:24.466]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:26.468]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:28.470]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:30.473]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:32.475]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:34.477]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:36.478]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:38.480]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:40.483]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:42.485]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:44.487]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:46.489]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:48.492]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:50.494]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:52.496]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:54.499]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:56.501]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:36:58.503]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:00.505]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:02.507]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:04.510]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:06.512]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:08.514]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:10.517]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:12.519]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:14.521]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:16.523]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:18.526]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:20.528]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:22.531]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:24.531]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:26.533]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:28.535]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:30.537]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:32.539]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:34.541]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:36.543]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:38.546]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:40.548]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:42.550]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:44.553]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:46.555]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:48.558]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:50.560]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:52.562]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:54.565]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:56.567]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:37:58.569]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:00.572]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:02.573]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:04.576]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:06.578]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:08.580]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:10.583]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:12.585]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:14.586]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:16.588]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:18.590]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:20.592]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:22.594]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:24.596]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:26.598]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:28.601]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:30.603]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:32.605]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:34.607]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:36.610]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:38.612]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:40.614]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:42.618]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:44.620]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:46.623]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:48.625]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:50.627]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:52.630]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:54.632]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:56.634]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:38:58.637]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:00.639]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:02.641]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:04.644]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:06.646]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:08.648]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:10.650]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:12.651]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:14.654]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:16.656]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:18.657]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:20.659]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:22.662]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:24.664]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:26.666]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:28.668]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:30.671]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:32.673]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:34.675]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:36.678]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:38.681]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:40.683]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:42.685]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:44.688]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:46.690]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:48.692]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:50.695]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:52.697]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:54.699]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:56.701]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:39:58.703]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:00.706]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:02.708]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:04.710]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:06.713]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:08.715]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:10.717]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:12.719]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:14.722]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:16.724]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:18.727]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:20.729]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:22.731]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:24.734]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:26.736]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:28.738]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:30.741]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:32.743]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:34.746]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:36.748]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:38.750]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:40.753]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:42.755]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:44.758]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:46.760]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:48.762]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:50.765]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:52.767]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:54.769]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:56.772]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:40:58.774]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:00.776]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:02.779]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:04.781]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:06.783]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:08.786]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:10.788]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:12.790]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:14.793]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:16.795]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:18.797]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:20.800]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:22.800]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:24.803]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:26.806]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:28.808]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:30.810]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:32.812]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:34.815]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:36.817]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:38.818]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:40.820]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:42.822]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:44.825]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:46.827]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:48.829]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:50.832]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:52.834]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:54.836]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:56.838]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:41:58.843]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:00.845]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:02.847]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:04.849]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:06.850]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:08.853]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:10.855]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:12.857]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:14.859]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:16.862]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:18.865]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:20.867]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:22.870]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:24.872]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:26.873]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:28.874]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:30.876]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:32.878]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:34.881]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:36.881]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:38.884]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:40.886]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:42.888]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:44.891]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:46.893]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:48.895]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:50.897]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:52.899]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:54.901]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:56.904]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:42:58.905]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:00.907]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:02.910]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:04.912]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:06.914]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:08.917]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:10.919]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:12.921]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:14.924]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:16.926]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:18.928]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:20.931]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:22.933]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:24.936]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:26.937]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:28.939]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:30.942]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:32.944]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:34.946]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:36.949]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:38.951]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:40.954]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:42.956]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:44.957]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:46.959]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:48.961]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:50.963]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:52.965]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:54.967]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:56.970]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:43:58.972]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:00.974]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:02.977]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:04.980]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:06.982]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:08.985]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:10.987]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:12.989]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:14.992]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:16.994]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:18.996]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:20.999]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:23.001]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:25.003]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:27.006]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:29.008]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:31.010]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:33.015]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:35.017]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:37.019]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:39.022]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:41.024]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:43.026]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:45.029]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:47.031]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:49.032]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:51.033]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:53.035]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:55.037]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:57.039]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:44:59.041]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:01.043]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:03.046]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:05.048]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:07.050]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:09.053]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:11.053]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:13.055]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:15.058]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:17.060]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:19.062]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:21.065]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:23.067]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:25.069]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:27.071]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:29.073]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:31.075]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:33.078]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:35.080]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:37.081]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:39.084]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:41.086]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:43.088]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:45.090]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:47.093]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:49.095]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:51.097]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:53.100]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:55.102]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:57.105]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:45:59.107]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:01.109]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:03.112]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:05.114]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:07.116]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:09.117]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:11.119]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:13.122]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:15.124]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:17.126]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:19.127]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:21.129]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:23.131]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:25.134]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:27.136]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:29.138]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:31.140]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:33.141]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:35.143]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:37.146]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:39.148]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:41.149]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:43.151]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:45.153]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:47.154]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:49.157]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:51.159]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:53.162]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:55.164]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:57.166]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:46:59.169]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:01.169]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:03.171]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:05.174]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:07.176]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:09.178]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:11.179]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:13.182]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:15.184]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:17.186]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:19.189]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:21.191]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:23.193]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:25.196]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:27.198]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:29.200]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:31.203]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:33.205]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:35.207]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:37.210]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:39.212]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:41.215]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:43.218]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:45.220]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:47.222]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:49.225]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:51.227]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:53.229]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:55.231]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:57.234]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:47:59.236]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:01.238]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:03.241]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:05.243]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:07.245]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:09.248]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:11.250]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:13.252]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:15.255]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:17.257]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:19.259]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:21.262]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:23.264]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:25.266]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:27.269]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:29.271]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:31.273]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:33.276]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:35.279]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:35.499]	Service is stopping
+[29/07/2021 16:48:35.499]	Disconnecting from server
+[29/07/2021 16:48:37.281]	:XELA:finish:XELA:
+
+[29/07/2021 16:48:37.301]	:XELA:finish:XELA:
+
+[29/07/2021 16:48:47.278]	New log file: /etc/xela/LOG/xela_viz.log
+
+[29/07/2021 16:48:47.279]	Running version 1.7.1a_57506 compiled on Ubuntu 16.04 (xenial)
+[29/07/2021 16:48:47.279]	Detected OS: Ubuntu 16.04 (xenial)
+Environment: 	XDG_VTNR=7
+	XDG_SESSION_ID=c2
+	XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/arshad
+	CLUTTER_IM_MODULE=xim
+	SESSION=ubuntu
+	GPG_AGENT_INFO=/home/arshad/.gnupg/S.gpg-agent:0:1
+	TERM=xterm-256color
+	VTE_VERSION=4205
+	XDG_MENU_PREFIX=gnome-
+	SHELL=/bin/bash
+	ROS_ROOT=/opt/ros/kinetic/share/ros
+	ROS_PACKAGE_PATH=/home/arshad/Documents/franka_ws/src:/opt/ros/kinetic/share
+	QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+	ROS_MASTER_URI=http://localhost:11311
+	WINDOWID=56623114
+	ROS_PYTHON_VERSION=2
+	OLDPWD=/home/arshad
+	UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1006/2393
+	GNOME_KEYRING_CONTROL=
+	ROS_VERSION=1
+	GTK_MODULES=gail:atk-bridge:unity-gtk-module
+	USER=arshad
+	LD_LIBRARY_PATH=/tmp/_MEIKnktyW:/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+	LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+	QT_ACCESSIBILITY=1
+	UNITY_HAS_3D_SUPPORT=true
+	XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+	XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+	SSH_AUTH_SOCK=/run/user/1006/keyring/ssh
+	DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+	SESSION_MANAGER=local/uolncnrfranka2:@/tmp/.ICE-unix/2623,unix/uolncnrfranka2:/tmp/.ICE-unix/2623
+	XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+	UNITY_DEFAULT_PROFILE=unity
+	DESKTOP_SESSION=ubuntu
+	PATH=/opt/ros/kinetic/bin:/etc/xela:/home/arshad/bin:/home/arshad/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+	QT_IM_MODULE=ibus
+	QT_QPA_PLATFORMTHEME=appmenu-qt5
+	XDG_SESSION_TYPE=x11
+	PWD=/etc/xela
+	JOB=unity-settings-daemon
+	XMODIFIERS=@im=ibus
+	GNOME_KEYRING_PID=
+	LANG=en_GB.UTF-8
+	GDM_LANG=en_GB
+	MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+	COMPIZ_CONFIG_PROFILE=ubuntu
+	IM_CONFIG_PHASE=1
+	ROSLISP_PACKAGE_DIRECTORIES=/home/arshad/Documents/franka_ws/devel/share/common-lisp
+	GDMSESSION=ubuntu
+	SESSIONTYPE=gnome-session
+	GTK2_MODULES=overlay-scrollbar
+	SHLVL=1
+	HOME=/home/arshad
+	XDG_SEAT=seat0
+	ROS_DISTRO=kinetic
+	LANGUAGE=en_GB:en
+	GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+	UPSTART_INSTANCE=
+	PYTHONPATH=/home/arshad/Documents/franka_ws/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages
+	UPSTART_EVENTS=xsession started
+	XDG_SESSION_DESKTOP=ubuntu
+	LOGNAME=arshad
+	COMPIZ_BIN_PATH=/usr/bin/
+	DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-SpzkhfFjxO
+	XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+	QT4_IM_MODULE=xim
+	PKG_CONFIG_PATH=/home/arshad/Documents/franka_ws/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig
+	LESSOPEN=| /usr/bin/lesspipe %s
+	INSTANCE=
+	UPSTART_JOB=unity7
+	CMAKE_PREFIX_PATH=/home/arshad/Documents/franka_ws/devel:/opt/ros/kinetic
+	XDG_RUNTIME_DIR=/run/user/1006
+	DISPLAY=:0
+	XDG_CURRENT_DESKTOP=Unity
+	GTK_IM_MODULE=ibus
+	LESSCLOSE=/usr/bin/lesspipe %s %s
+	ROS_ETC_DIR=/opt/ros/kinetic/etc/ros
+	XAUTHORITY=/home/arshad/.Xauthority
+	_=./xela_viz
+	LD_LIBRARY_PATH_ORIG=/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+[29/07/2021 16:48:47.413]	:XELA:start:XELA:
+[29/07/2021 16:48:47.413]	File: /etc/xela
+[29/07/2021 16:48:47.413]	ARGS: {'failures': [], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'viz': 3, 'hw': False, 'sw': False, 'log': '/etc/xela/LOG/xviz.log', 'debug': False, 'roslog': None, 'rosname': None, 'visualversion': False, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.7.1a_57506'}
+[29/07/2021 16:48:47.413]	EXEC: /etc/xela/xela_viz
+[29/07/2021 16:48:47.614]	Starting new Viz
+[29/07/2021 16:48:47.614]	INI sets DEBUG to [31mOFF[0m
+[29/07/2021 16:48:47.636]	Source: /tmp/_MEIKnktyW/
+[29/07/2021 16:48:47.637]	IP is 127.0.0.1
+[29/07/2021 16:48:47.637]	New IP is 127.0.0.1
+[29/07/2021 16:48:49.716]	DATA ID: 139660278018704
+[29/07/2021 16:48:49.716]	IP is 127.0.0.1
+[29/07/2021 16:48:49.716]	New IP is 127.0.0.1
+[29/07/2021 16:48:49.716]	Connection on 10.5.32.137:5000
+[29/07/2021 16:48:49.717]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:51.728]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:53.730]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:55.733]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:57.735]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:48:59.737]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:49:01.740]	Starting connection on 10.5.32.137:5000
+[29/07/2021 16:49:02.229]	Service is stopping
+[29/07/2021 16:49:02.229]	Disconnecting from server
+[29/07/2021 16:49:03.742]	:XELA:finish:XELA:
+
+[29/07/2021 16:49:04.031]	:XELA:finish:XELA:
+

@@ -414,7 +414,7 @@ for i in range(16):
 def message_parser(msg_obj):
     global isSensorCalibrated, calibrationData
     ret = ""
-    # sys.stderr.write("Parser error: {}\n".format(msg_obj))
+    sys.stderr.write("Parser error: {}\n".format(msg_obj))
     
     try:
         ret = msg_obj[u"data"]

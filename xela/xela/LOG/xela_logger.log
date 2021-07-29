@@ -1,0 +1,431 @@
+[29/07/2021 13:55:15.566]	New log file: /etc/xela/LOG/xela_logger.log
+
+[29/07/2021 13:55:15.566]	Running version 1.7.1a_57506 compiled on Ubuntu 16.04 (xenial)
+[29/07/2021 13:55:15.566]	Detected OS: Ubuntu 16.04 (xenial)
+Environment: 	XDG_VTNR=7
+	XDG_SESSION_ID=c4
+	XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/arshad
+	CLUTTER_IM_MODULE=xim
+	SESSION=ubuntu
+	GPG_AGENT_INFO=/home/arshad/.gnupg/S.gpg-agent:0:1
+	TERM=xterm-256color
+	VTE_VERSION=4205
+	XDG_MENU_PREFIX=gnome-
+	SHELL=/bin/bash
+	ROS_ROOT=/opt/ros/kinetic/share/ros
+	ROS_PACKAGE_PATH=/home/arshad/Documents/franka_ws/src:/opt/ros/kinetic/share
+	QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+	ROS_MASTER_URI=http://localhost:11311
+	WINDOWID=56623114
+	ROS_PYTHON_VERSION=2
+	OLDPWD=/home/arshad
+	UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1006/30258
+	GNOME_KEYRING_CONTROL=
+	ROS_VERSION=1
+	GTK_MODULES=gail:atk-bridge:unity-gtk-module
+	USER=arshad
+	LD_LIBRARY_PATH=/tmp/_MEI6BC0EG:/tmp/_MEIVz1q8K:/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+	LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+	QT_ACCESSIBILITY=1
+	UNITY_HAS_3D_SUPPORT=true
+	XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+	XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+	SSH_AUTH_SOCK=/run/user/1006/keyring/ssh
+	DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+	SESSION_MANAGER=local/uolncnrfranka2:@/tmp/.ICE-unix/30479,unix/uolncnrfranka2:/tmp/.ICE-unix/30479
+	XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+	UNITY_DEFAULT_PROFILE=unity
+	DESKTOP_SESSION=ubuntu
+	PATH=/opt/ros/kinetic/bin:/etc/xela/:/home/arshad/bin:/home/arshad/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+	QT_IM_MODULE=ibus
+	QT_QPA_PLATFORMTHEME=appmenu-qt5
+	XDG_SESSION_TYPE=x11
+	PWD=/home/arshad/Downloads
+	JOB=unity-settings-daemon
+	XMODIFIERS=@im=ibus
+	GNOME_KEYRING_PID=
+	LANG=en_GB.UTF-8
+	GDM_LANG=en_GB
+	MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+	COMPIZ_CONFIG_PROFILE=ubuntu
+	IM_CONFIG_PHASE=1
+	ROSLISP_PACKAGE_DIRECTORIES=/home/arshad/Documents/franka_ws/devel/share/common-lisp
+	GDMSESSION=ubuntu
+	SESSIONTYPE=gnome-session
+	GTK2_MODULES=overlay-scrollbar
+	SHLVL=1
+	HOME=/home/arshad
+	XDG_SEAT=seat0
+	ROS_DISTRO=kinetic
+	LANGUAGE=en_GB:en
+	GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+	UPSTART_INSTANCE=
+	PYTHONPATH=/home/arshad/Documents/franka_ws/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages
+	UPSTART_EVENTS=xsession started
+	XDG_SESSION_DESKTOP=ubuntu
+	LOGNAME=arshad
+	COMPIZ_BIN_PATH=/usr/bin/
+	DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-td5IM9dyav
+	XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+	QT4_IM_MODULE=xim
+	PKG_CONFIG_PATH=/home/arshad/Documents/franka_ws/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig
+	LESSOPEN=| /usr/bin/lesspipe %s
+	INSTANCE=
+	UPSTART_JOB=unity7
+	CMAKE_PREFIX_PATH=/home/arshad/Documents/franka_ws/devel:/opt/ros/kinetic
+	XDG_RUNTIME_DIR=/run/user/1006
+	DISPLAY=:0
+	XDG_CURRENT_DESKTOP=Unity
+	GTK_IM_MODULE=ibus
+	LESSCLOSE=/usr/bin/lesspipe %s %s
+	ROS_ETC_DIR=/opt/ros/kinetic/etc/ros
+	XAUTHORITY=/home/arshad/.Xauthority
+	_=./xela_installer_16
+	LD_LIBRARY_PATH_ORIG=/tmp/_MEIVz1q8K:/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+[29/07/2021 14:39:09.688]	New log file: /etc/xela/LOG/xela_logger.log
+
+[29/07/2021 14:39:09.688]	Running version 1.7.1a_57506 compiled on Ubuntu 16.04 (xenial)
+[29/07/2021 14:39:09.688]	Detected OS: Ubuntu 16.04 (xenial)
+Environment: 	XDG_VTNR=7
+	XDG_SESSION_ID=c4
+	XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/arshad
+	CLUTTER_IM_MODULE=xim
+	SESSION=ubuntu
+	GPG_AGENT_INFO=/home/arshad/.gnupg/S.gpg-agent:0:1
+	TERM=xterm-256color
+	VTE_VERSION=4205
+	XDG_MENU_PREFIX=gnome-
+	SHELL=/bin/bash
+	ROS_ROOT=/opt/ros/kinetic/share/ros
+	ROS_PACKAGE_PATH=/home/arshad/Documents/franka_ws/src:/opt/ros/kinetic/share
+	QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+	ROS_MASTER_URI=http://localhost:11311
+	WINDOWID=56623114
+	ROS_PYTHON_VERSION=2
+	UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1006/30258
+	GNOME_KEYRING_CONTROL=
+	ROS_VERSION=1
+	GTK_MODULES=gail:atk-bridge:unity-gtk-module
+	USER=arshad
+	LD_LIBRARY_PATH=/tmp/_MEIvwKWW8:/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+	LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+	QT_ACCESSIBILITY=1
+	UNITY_HAS_3D_SUPPORT=true
+	XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+	XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+	SSH_AUTH_SOCK=/run/user/1006/keyring/ssh
+	DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+	SESSION_MANAGER=local/uolncnrfranka2:@/tmp/.ICE-unix/30479,unix/uolncnrfranka2:/tmp/.ICE-unix/30479
+	XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+	UNITY_DEFAULT_PROFILE=unity
+	DESKTOP_SESSION=ubuntu
+	PATH=/opt/ros/kinetic/bin:/etc/xela/:/home/arshad/bin:/home/arshad/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+	QT_IM_MODULE=ibus
+	QT_QPA_PLATFORMTHEME=appmenu-qt5
+	XDG_SESSION_TYPE=x11
+	PWD=/etc/xela
+	JOB=unity-settings-daemon
+	XMODIFIERS=@im=ibus
+	GNOME_KEYRING_PID=
+	LANG=en_GB.UTF-8
+	GDM_LANG=en_GB
+	MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+	COMPIZ_CONFIG_PROFILE=ubuntu
+	IM_CONFIG_PHASE=1
+	ROSLISP_PACKAGE_DIRECTORIES=/home/arshad/Documents/franka_ws/devel/share/common-lisp
+	GDMSESSION=ubuntu
+	SESSIONTYPE=gnome-session
+	GTK2_MODULES=overlay-scrollbar
+	SHLVL=1
+	HOME=/home/arshad
+	XDG_SEAT=seat0
+	ROS_DISTRO=kinetic
+	LANGUAGE=en_GB:en
+	GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+	UPSTART_INSTANCE=
+	PYTHONPATH=/home/arshad/Documents/franka_ws/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages
+	UPSTART_EVENTS=xsession started
+	XDG_SESSION_DESKTOP=ubuntu
+	LOGNAME=arshad
+	COMPIZ_BIN_PATH=/usr/bin/
+	DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-td5IM9dyav
+	XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+	QT4_IM_MODULE=xim
+	PKG_CONFIG_PATH=/home/arshad/Documents/franka_ws/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig
+	LESSOPEN=| /usr/bin/lesspipe %s
+	INSTANCE=
+	UPSTART_JOB=unity7
+	CMAKE_PREFIX_PATH=/home/arshad/Documents/franka_ws/devel:/opt/ros/kinetic
+	XDG_RUNTIME_DIR=/run/user/1006
+	DISPLAY=:0
+	XDG_CURRENT_DESKTOP=Unity
+	GTK_IM_MODULE=ibus
+	LESSCLOSE=/usr/bin/lesspipe %s %s
+	ROS_ETC_DIR=/opt/ros/kinetic/etc/ros
+	XAUTHORITY=/home/arshad/.Xauthority
+	_=./xela_log
+	OLDPWD=/home/arshad
+	LD_LIBRARY_PATH_ORIG=/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+[29/07/2021 14:39:09.702]	Setting up sensor 1 to read 100 times
+[29/07/2021 14:39:09.703]	->[32mSTART[0m
+[29/07/2021 14:39:19.702]	[2AUser cancellation
+[29/07/2021 16:02:36.209]	New log file: /etc/xela/LOG/xela_logger.log
+
+[29/07/2021 16:02:36.210]	Running version 1.7.1a_57506 compiled on Ubuntu 16.04 (xenial)
+[29/07/2021 16:02:36.210]	Detected OS: Ubuntu 16.04 (xenial)
+Environment: 	XDG_VTNR=7
+	XDG_SESSION_ID=c2
+	XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/arshad
+	CLUTTER_IM_MODULE=xim
+	SESSION=ubuntu
+	GPG_AGENT_INFO=/home/arshad/.gnupg/S.gpg-agent:0:1
+	TERM=xterm-256color
+	VTE_VERSION=4205
+	XDG_MENU_PREFIX=gnome-
+	SHELL=/bin/bash
+	ROS_ROOT=/opt/ros/kinetic/share/ros
+	ROS_PACKAGE_PATH=/opt/ros/kinetic/share
+	QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+	ROS_MASTER_URI=http://localhost:11311
+	WINDOWID=56623114
+	ROS_PYTHON_VERSION=2
+	OLDPWD=/home/arshad
+	UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1006/2393
+	GNOME_KEYRING_CONTROL=
+	ROS_VERSION=1
+	GTK_MODULES=gail:atk-bridge:unity-gtk-module
+	USER=arshad
+	LD_LIBRARY_PATH=/tmp/_MEIPxLAJJ:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+	LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+	QT_ACCESSIBILITY=1
+	UNITY_HAS_3D_SUPPORT=true
+	XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+	XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+	SSH_AUTH_SOCK=/run/user/1006/keyring/ssh
+	DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+	SESSION_MANAGER=local/uolncnrfranka2:@/tmp/.ICE-unix/2623,unix/uolncnrfranka2:/tmp/.ICE-unix/2623
+	XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+	UNITY_DEFAULT_PROFILE=unity
+	DESKTOP_SESSION=ubuntu
+	PATH=/opt/ros/kinetic/bin:/etc/xela:/home/arshad/bin:/home/arshad/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+	QT_IM_MODULE=ibus
+	QT_QPA_PLATFORMTHEME=appmenu-qt5
+	XDG_SESSION_TYPE=x11
+	PWD=/etc/xela
+	JOB=unity-settings-daemon
+	XMODIFIERS=@im=ibus
+	GNOME_KEYRING_PID=
+	LANG=en_GB.UTF-8
+	GDM_LANG=en_GB
+	MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+	COMPIZ_CONFIG_PROFILE=ubuntu
+	IM_CONFIG_PHASE=1
+	ROSLISP_PACKAGE_DIRECTORIES=
+	GDMSESSION=ubuntu
+	SESSIONTYPE=gnome-session
+	GTK2_MODULES=overlay-scrollbar
+	SHLVL=1
+	HOME=/home/arshad
+	XDG_SEAT=seat0
+	ROS_DISTRO=kinetic
+	LANGUAGE=en_GB:en
+	GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+	UPSTART_INSTANCE=
+	PYTHONPATH=/opt/ros/kinetic/lib/python2.7/dist-packages
+	UPSTART_EVENTS=xsession started
+	XDG_SESSION_DESKTOP=ubuntu
+	LOGNAME=arshad
+	COMPIZ_BIN_PATH=/usr/bin/
+	DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-SpzkhfFjxO
+	XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+	QT4_IM_MODULE=xim
+	PKG_CONFIG_PATH=/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig
+	LESSOPEN=| /usr/bin/lesspipe %s
+	INSTANCE=
+	UPSTART_JOB=unity7
+	CMAKE_PREFIX_PATH=/opt/ros/kinetic
+	XDG_RUNTIME_DIR=/run/user/1006
+	DISPLAY=:0
+	XDG_CURRENT_DESKTOP=Unity
+	GTK_IM_MODULE=ibus
+	LESSCLOSE=/usr/bin/lesspipe %s %s
+	ROS_ETC_DIR=/opt/ros/kinetic/etc/ros
+	XAUTHORITY=/home/arshad/.Xauthority
+	_=./xela_log
+	LD_LIBRARY_PATH_ORIG=/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+[29/07/2021 16:02:40.658]	New log file: /etc/xela/LOG/xela_logger.log
+
+[29/07/2021 16:02:40.658]	Running version 1.7.1a_57506 compiled on Ubuntu 16.04 (xenial)
+[29/07/2021 16:02:40.658]	Detected OS: Ubuntu 16.04 (xenial)
+Environment: 	XDG_VTNR=7
+	XDG_SESSION_ID=c2
+	XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/arshad
+	CLUTTER_IM_MODULE=xim
+	SESSION=ubuntu
+	GPG_AGENT_INFO=/home/arshad/.gnupg/S.gpg-agent:0:1
+	TERM=xterm-256color
+	VTE_VERSION=4205
+	XDG_MENU_PREFIX=gnome-
+	SHELL=/bin/bash
+	ROS_ROOT=/opt/ros/kinetic/share/ros
+	ROS_PACKAGE_PATH=/opt/ros/kinetic/share
+	QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+	ROS_MASTER_URI=http://localhost:11311
+	WINDOWID=56623114
+	ROS_PYTHON_VERSION=2
+	OLDPWD=/home/arshad
+	UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1006/2393
+	GNOME_KEYRING_CONTROL=
+	ROS_VERSION=1
+	GTK_MODULES=gail:atk-bridge:unity-gtk-module
+	USER=arshad
+	LD_LIBRARY_PATH=/tmp/_MEIiaF7Pm:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+	LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+	QT_ACCESSIBILITY=1
+	UNITY_HAS_3D_SUPPORT=true
+	XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+	XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+	SSH_AUTH_SOCK=/run/user/1006/keyring/ssh
+	DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+	SESSION_MANAGER=local/uolncnrfranka2:@/tmp/.ICE-unix/2623,unix/uolncnrfranka2:/tmp/.ICE-unix/2623
+	XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+	UNITY_DEFAULT_PROFILE=unity
+	DESKTOP_SESSION=ubuntu
+	PATH=/opt/ros/kinetic/bin:/etc/xela:/home/arshad/bin:/home/arshad/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+	QT_IM_MODULE=ibus
+	QT_QPA_PLATFORMTHEME=appmenu-qt5
+	XDG_SESSION_TYPE=x11
+	PWD=/etc/xela
+	JOB=unity-settings-daemon
+	XMODIFIERS=@im=ibus
+	GNOME_KEYRING_PID=
+	LANG=en_GB.UTF-8
+	GDM_LANG=en_GB
+	MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+	COMPIZ_CONFIG_PROFILE=ubuntu
+	IM_CONFIG_PHASE=1
+	ROSLISP_PACKAGE_DIRECTORIES=
+	GDMSESSION=ubuntu
+	SESSIONTYPE=gnome-session
+	GTK2_MODULES=overlay-scrollbar
+	SHLVL=1
+	HOME=/home/arshad
+	XDG_SEAT=seat0
+	ROS_DISTRO=kinetic
+	LANGUAGE=en_GB:en
+	GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+	UPSTART_INSTANCE=
+	PYTHONPATH=/opt/ros/kinetic/lib/python2.7/dist-packages
+	UPSTART_EVENTS=xsession started
+	XDG_SESSION_DESKTOP=ubuntu
+	LOGNAME=arshad
+	COMPIZ_BIN_PATH=/usr/bin/
+	DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-SpzkhfFjxO
+	XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+	QT4_IM_MODULE=xim
+	PKG_CONFIG_PATH=/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig
+	LESSOPEN=| /usr/bin/lesspipe %s
+	INSTANCE=
+	UPSTART_JOB=unity7
+	CMAKE_PREFIX_PATH=/opt/ros/kinetic
+	XDG_RUNTIME_DIR=/run/user/1006
+	DISPLAY=:0
+	XDG_CURRENT_DESKTOP=Unity
+	GTK_IM_MODULE=ibus
+	LESSCLOSE=/usr/bin/lesspipe %s %s
+	ROS_ETC_DIR=/opt/ros/kinetic/etc/ros
+	XAUTHORITY=/home/arshad/.Xauthority
+	_=./xela_log
+	LD_LIBRARY_PATH_ORIG=/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+[29/07/2021 16:02:40.666]	Setting up sensor 1 to read 100 times
+[29/07/2021 16:02:40.666]	->[32mSTART[0m
+[29/07/2021 16:02:50.668]	:XELA:finish:XELA:
+
+[29/07/2021 16:54:50.717]	New log file: /etc/xela/LOG/xela_logger.log
+
+[29/07/2021 16:54:50.718]	Running version 1.7.1a_57506 compiled on Ubuntu 16.04 (xenial)
+[29/07/2021 16:54:50.718]	Detected OS: Ubuntu 16.04 (xenial)
+Environment: 	XDG_VTNR=7
+	XDG_SESSION_ID=c2
+	XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/arshad
+	CLUTTER_IM_MODULE=xim
+	SESSION=ubuntu
+	GPG_AGENT_INFO=/home/arshad/.gnupg/S.gpg-agent:0:1
+	TERM=xterm-256color
+	VTE_VERSION=4205
+	XDG_MENU_PREFIX=gnome-
+	SHELL=/bin/bash
+	ROS_ROOT=/opt/ros/kinetic/share/ros
+	ROS_PACKAGE_PATH=/home/arshad/Documents/franka_ws/src:/opt/ros/kinetic/share
+	QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+	ROS_MASTER_URI=http://localhost:11311
+	WINDOWID=56623114
+	ROS_PYTHON_VERSION=2
+	OLDPWD=/home/arshad
+	UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1006/2393
+	GNOME_KEYRING_CONTROL=
+	ROS_VERSION=1
+	GTK_MODULES=gail:atk-bridge:unity-gtk-module
+	USER=arshad
+	LD_LIBRARY_PATH=/tmp/_MEIJhWa46:/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+	LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+	QT_ACCESSIBILITY=1
+	UNITY_HAS_3D_SUPPORT=true
+	XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+	XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+	SSH_AUTH_SOCK=/run/user/1006/keyring/ssh
+	DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+	SESSION_MANAGER=local/uolncnrfranka2:@/tmp/.ICE-unix/2623,unix/uolncnrfranka2:/tmp/.ICE-unix/2623
+	XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+	UNITY_DEFAULT_PROFILE=unity
+	DESKTOP_SESSION=ubuntu
+	PATH=/opt/ros/kinetic/bin:/etc/xela:/home/arshad/bin:/home/arshad/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+	QT_IM_MODULE=ibus
+	QT_QPA_PLATFORMTHEME=appmenu-qt5
+	XDG_SESSION_TYPE=x11
+	PWD=/etc/xela
+	JOB=unity-settings-daemon
+	XMODIFIERS=@im=ibus
+	GNOME_KEYRING_PID=
+	LANG=en_GB.UTF-8
+	GDM_LANG=en_GB
+	MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+	COMPIZ_CONFIG_PROFILE=ubuntu
+	IM_CONFIG_PHASE=1
+	ROSLISP_PACKAGE_DIRECTORIES=/home/arshad/Documents/franka_ws/devel/share/common-lisp
+	GDMSESSION=ubuntu
+	SESSIONTYPE=gnome-session
+	GTK2_MODULES=overlay-scrollbar
+	SHLVL=1
+	HOME=/home/arshad
+	XDG_SEAT=seat0
+	ROS_DISTRO=kinetic
+	LANGUAGE=en_GB:en
+	GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+	UPSTART_INSTANCE=
+	PYTHONPATH=/home/arshad/Documents/franka_ws/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages
+	UPSTART_EVENTS=xsession started
+	XDG_SESSION_DESKTOP=ubuntu
+	LOGNAME=arshad
+	COMPIZ_BIN_PATH=/usr/bin/
+	DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-SpzkhfFjxO
+	XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+	QT4_IM_MODULE=xim
+	PKG_CONFIG_PATH=/home/arshad/Documents/franka_ws/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig
+	LESSOPEN=| /usr/bin/lesspipe %s
+	INSTANCE=
+	UPSTART_JOB=unity7
+	CMAKE_PREFIX_PATH=/home/arshad/Documents/franka_ws/devel:/opt/ros/kinetic
+	XDG_RUNTIME_DIR=/run/user/1006
+	DISPLAY=:0
+	XDG_CURRENT_DESKTOP=Unity
+	GTK_IM_MODULE=ibus
+	LESSCLOSE=/usr/bin/lesspipe %s %s
+	ROS_ETC_DIR=/opt/ros/kinetic/etc/ros
+	XAUTHORITY=/home/arshad/.Xauthority
+	_=./xela_log
+	LD_LIBRARY_PATH_ORIG=/home/arshad/Documents/franka_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+[29/07/2021 16:54:50.724]	Setting up sensor 1 to read 100 times
+[29/07/2021 16:54:50.724]	->[32mSTART[0m
+[29/07/2021 16:55:00.725]	:XELA:finish:XELA:
+

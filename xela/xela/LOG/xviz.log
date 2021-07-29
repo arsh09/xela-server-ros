@@ -1,0 +1,345 @@
+[15/12/2020 11:02:40.723]	New log file: /etc/xela/LOG/xviz.log
+
+[15/12/2020 11:02:40.723]	Starting new Viz
+[15/12/2020 11:02:41.006]	DATA ID: 139783601830096
+[15/12/2020 11:02:41.010]	Connection established
+[15/12/2020 11:02:41.010]	Connected as [32m0ad10ad2e5634240900873c56b56d9fa[0m
+[15/12/2020 11:14:03.849]	New log file: /etc/xela/LOG/xviz.log
+
+[15/12/2020 11:14:03.849]	Starting new Viz
+[15/12/2020 11:14:04.139]	DATA ID: 140450693609936
+[15/12/2020 11:20:44.050]	New log file: /etc/xela/LOG/xviz.log
+
+[15/12/2020 11:20:44.051]	Starting new Viz
+[15/12/2020 11:20:45.018]	DATA ID: 140021765380304
+[15/12/2020 11:30:10.556]	New log file: /etc/xela/LOG/xviz.log
+
+[15/12/2020 11:30:10.556]	Starting new Viz
+[15/12/2020 11:30:10.845]	DATA ID: 140334653003920
+[15/12/2020 11:30:10.849]	Connection established
+[15/12/2020 11:30:10.849]	Connected as [32mccdbe99b2e6e4f1097340b5385a2c9aa[0m
+[15/12/2020 15:21:53.195]	async dissconnect requested
+[15/12/2020 15:21:53.381]	Connection established
+[15/12/2020 15:21:53.382]	Connected as [32m61258a2a9afa4cd2b00ccdfb31318691[0m
+[15/12/2020 18:30:32.187]	New log file: /etc/xela/LOG/xviz.log
+
+[15/12/2020 18:30:32.187]	Starting new Viz
+[15/12/2020 18:30:32.320]	DATA ID: 139714458039760
+[15/12/2020 18:30:32.325]	Connection established
+[15/12/2020 18:30:32.325]	Connected as [32m23421055df194a8eaf38c0e603d2daf2[0m
+[15/12/2020 18:30:49.366]	Service is stopping
+[15/12/2020 18:30:49.366]	Disconnecting from server
+[15/12/2020 18:30:51.168]	:XELA:finish:XELA:
+
+[15/12/2020 19:51:34.083]	New log file: /etc/xela/LOG/xviz.log
+
+[15/12/2020 19:51:34.083]	Starting new Viz
+[15/12/2020 19:51:34.223]	DATA ID: 140229863499088
+[15/12/2020 19:51:34.227]	Connection established
+[15/12/2020 19:51:34.227]	Connected as [32m05418b9da6a24510aced2d6b85a0a0d1[0m
+[15/12/2020 19:51:36.714]	New log file: /etc/xela/LOG/xviz.log
+
+[15/12/2020 19:51:36.714]	Starting new Viz
+[15/12/2020 19:51:36.843]	DATA ID: 139968618575248
+[15/12/2020 19:51:36.847]	Connection established
+[15/12/2020 19:51:36.847]	Connected as [32m07abd8dd028c4eaca21cba38c68eeee1[0m
+[15/12/2020 19:51:39.029]	Service is stopping
+[15/12/2020 19:51:39.029]	Disconnecting from server
+[15/12/2020 19:51:40.831]	:XELA:finish:XELA:
+
+[15/12/2020 19:53:03.023]	Service is stopping
+[15/12/2020 19:53:03.024]	Disconnecting from server
+[15/12/2020 19:53:04.826]	:XELA:finish:XELA:
+
+[15/12/2020 19:55:34.388]	Service is stopping
+[15/12/2020 19:55:34.388]	Disconnecting from server
+[15/12/2020 19:55:36.190]	:XELA:finish:XELA:
+
+[16/12/2020 11:50:24.057]	New log file: /etc/xela/LOG/xviz.log
+
+[16/12/2020 11:50:24.059]	Starting new Viz
+[16/12/2020 11:50:24.189]	DATA ID: 139746990909072
+[16/12/2020 11:50:24.193]	Connection established
+[16/12/2020 11:50:24.194]	Connected as [32ma1ed03a39ddf491baf6d9195cf020530[0m
+[16/12/2020 18:29:02.806]	Service is stopping
+[16/12/2020 18:29:02.806]	Disconnecting from server
+[16/12/2020 18:29:04.608]	:XELA:finish:XELA:
+
+[03/01/2021 16:13:13.569]	New log file: /etc/xela/LOG/xviz.log
+
+[03/01/2021 16:13:13.571]	Starting new Viz
+[03/01/2021 16:13:13.715]	DATA ID: 140477597529552
+[03/01/2021 16:13:13.719]	Connection established
+[03/01/2021 16:13:13.719]	Connected as [32md90f5df8213d4784a0ebb0fb649d7221[0m
+[03/01/2021 16:15:55.055]	async dissconnect requested
+[03/01/2021 16:16:06.296]	Connection established
+[03/01/2021 16:16:06.297]	Connected as [32m3c97c07ac4314871a459f9d47936d7e7[0m
+[03/01/2021 16:16:24.613]	async dissconnect requested
+[03/01/2021 16:17:06.784]	Connection established
+[03/01/2021 16:17:06.784]	Connected as [32mcb1c62d11b0746d881c74f56568231bf[0m
+[03/01/2021 16:17:36.263]	async dissconnect requested
+[03/01/2021 16:18:34.108]	Connection established
+[03/01/2021 16:18:34.109]	Connected as [32m71e0cb8e839248aabdb3a5fde65e31e7[0m
+[03/01/2021 16:19:42.176]	async dissconnect requested
+[03/01/2021 16:19:56.538]	Connection established
+[03/01/2021 16:19:56.538]	Connected as [32ma2cac1de11de4c0c82b5ec273bc67321[0m
+[03/01/2021 16:19:57.108]	async dissconnect requested
+[03/01/2021 16:20:32.200]	Connection established
+[03/01/2021 16:20:32.200]	Connected as [32md00a4a6efe9d4518ad14a51aa19b386b[0m
+[03/01/2021 16:20:32.723]	async dissconnect requested
+[03/01/2021 16:23:35.276]	Connection established
+[03/01/2021 16:23:35.276]	Connected as [32m160de4eeb01e44ed8159142c26abef07[0m
+[03/01/2021 16:23:35.752]	async dissconnect requested
+[03/01/2021 16:25:59.646]	New log file: /etc/xela/LOG/xviz.log
+
+[03/01/2021 16:25:59.646]	Starting new Viz
+[03/01/2021 16:25:59.789]	DATA ID: 140621494883664
+[03/01/2021 16:26:02.693]	Service is stopping
+[03/01/2021 16:26:02.693]	Disconnecting from server
+[03/01/2021 16:26:04.502]	:XELA:finish:XELA:
+
+[03/01/2021 17:22:24.584]	New log file: /etc/xela/LOG/xviz.log
+
+[03/01/2021 17:22:24.586]	Starting new Viz
+[03/01/2021 17:22:24.713]	DATA ID: 139627782059664
+[03/01/2021 17:22:24.717]	Connection established
+[03/01/2021 17:22:24.718]	Connected as [32m48988da971fc4c3c8d0a661ffd2412e4[0m
+[03/01/2021 17:24:37.645]	async dissconnect requested
+[03/01/2021 17:27:29.538]	Connection established
+[03/01/2021 17:27:29.538]	Connected as [32me6532719cdb74c898cba95f1fd143ff7[0m
+[03/01/2021 19:02:03.631]	async dissconnect requested
+[03/01/2021 19:07:40.392]	Service is stopping
+[03/01/2021 19:07:40.392]	Disconnecting from server
+[03/01/2021 19:07:42.201]	:XELA:finish:XELA:
+
+[04/01/2021 18:39:47.085]	New log file: /etc/xela/LOG/xviz.log
+
+[04/01/2021 18:39:47.087]	Starting new Viz
+[04/01/2021 18:39:47.180]	DATA ID: 140283723469904
+[04/01/2021 18:39:47.183]	Connection established
+[04/01/2021 18:39:47.183]	Connected as [32m3b101806735448249b162c4df599a366[0m
+[04/01/2021 18:39:59.419]	async dissconnect requested
+[04/01/2021 18:40:51.878]	Connection established
+[04/01/2021 18:40:51.878]	Connected as [32m5e241480e7e5416898a86980bb39499e[0m
+[04/01/2021 20:06:35.395]	async dissconnect requested
+[04/01/2021 20:06:49.645]	Service is stopping
+[04/01/2021 20:06:49.645]	Disconnecting from server
+[04/01/2021 20:06:51.454]	:XELA:finish:XELA:
+
+[10/01/2021 12:00:14.465]	New log file: /etc/xela/LOG/xviz.log
+
+[10/01/2021 12:00:14.467]	Starting new Viz
+[10/01/2021 12:00:14.660]	DATA ID: 139721771669712
+[10/01/2021 12:00:14.664]	Connection established
+[10/01/2021 12:00:14.664]	Connected as [32m1da4e1e3df3c45c286a27c0048b3caed[0m
+[16/01/2021 18:38:55.338]	New log file: /etc/xela/LOG/xviz.log
+
+[16/01/2021 18:38:55.340]	Starting new Viz
+[16/01/2021 18:38:56.914]	DATA ID: 140645846791504
+[16/01/2021 18:38:56.917]	Connection established
+[16/01/2021 18:38:56.917]	Connected as [32m0046969f393e428686256b0f033ac0d0[0m
+[16/01/2021 18:39:05.925]	async dissconnect requested
+[16/01/2021 18:39:37.478]	Connection established
+[16/01/2021 18:39:37.478]	Connected as [32m1426dc720b5e47d09a07de20bf5f162d[0m
+[16/01/2021 18:39:43.951]	Service is stopping
+[16/01/2021 18:39:43.952]	Disconnecting from server
+[16/01/2021 18:39:45.758]	:XELA:finish:XELA:
+
+[16/01/2021 18:39:51.945]	New log file: /etc/xela/LOG/xviz.log
+
+[16/01/2021 18:39:51.945]	Starting new Viz
+[16/01/2021 18:39:53.199]	DATA ID: 140085869954768
+[16/01/2021 18:39:53.203]	Connection established
+[16/01/2021 18:39:53.203]	Connected as [32mb33015db29174b208645188357ed1c67[0m
+[16/01/2021 18:39:56.044]	New log file: /etc/xela/LOG/xviz.log
+
+[16/01/2021 18:39:56.045]	Starting new Viz
+[16/01/2021 18:39:57.304]	DATA ID: 140073190929936
+[16/01/2021 18:39:57.308]	Connection established
+[16/01/2021 18:39:57.308]	Connected as [32mdc46d29ace254756ab0b2bda6333c3f5[0m
+[16/01/2021 18:40:03.895]	Service is stopping
+[16/01/2021 18:40:03.895]	Disconnecting from server
+[16/01/2021 18:40:05.705]	:XELA:finish:XELA:
+
+[16/01/2021 18:40:10.495]	Service is stopping
+[16/01/2021 18:40:10.495]	Disconnecting from server
+[16/01/2021 18:40:12.304]	:XELA:finish:XELA:
+
+[16/01/2021 18:40:18.756]	New log file: /etc/xela/LOG/xviz.log
+
+[16/01/2021 18:40:18.756]	Starting new Viz
+[16/01/2021 18:40:19.690]	DATA ID: 140084623320336
+[16/01/2021 18:40:19.693]	Connection established
+[16/01/2021 18:40:19.693]	Connected as [32m6380954987044e9c995c5b47e74b9ec8[0m
+[16/01/2021 18:46:13.030]	Service is stopping
+[16/01/2021 18:46:13.030]	Disconnecting from server
+[16/01/2021 18:46:14.840]	:XELA:finish:XELA:
+
+[17/01/2021 14:03:15.024]	New log file: /etc/xela/LOG/xviz.log
+
+[17/01/2021 14:03:15.024]	Starting new Viz
+[17/01/2021 14:03:15.147]	DATA ID: 140450784368016
+[17/01/2021 14:03:22.328]	Service is stopping
+[17/01/2021 14:03:22.328]	Disconnecting from server
+[17/01/2021 14:03:24.130]	:XELA:finish:XELA:
+
+[17/01/2021 14:06:43.692]	New log file: /etc/xela/LOG/xviz.log
+
+[17/01/2021 14:06:43.692]	Starting new Viz
+[17/01/2021 14:06:43.812]	DATA ID: 140603845105168
+[17/01/2021 14:06:43.817]	Connection established
+[17/01/2021 14:06:43.817]	Connected as [32m29fba5b8cc2d428796da4fe5f89bec7e[0m
+[17/01/2021 14:06:50.208]	Service is stopping
+[17/01/2021 14:06:50.208]	Disconnecting from server
+[17/01/2021 14:06:52.017]	:XELA:finish:XELA:
+
+[17/01/2021 14:09:30.849]	New log file: /etc/xela/LOG/xviz.log
+
+[17/01/2021 14:09:30.850]	Starting new Viz
+[17/01/2021 14:09:30.971]	DATA ID: 139828431615376
+[17/01/2021 14:09:30.976]	Connection established
+[17/01/2021 14:09:30.976]	Connected as [32m12e909c389744320b32143b38388f8f6[0m
+[17/01/2021 14:09:34.093]	New log file: /etc/xela/LOG/xviz.log
+
+[17/01/2021 14:09:34.093]	Starting new Viz
+[17/01/2021 14:09:34.217]	DATA ID: 140466673387280
+[17/01/2021 14:09:34.221]	Connection established
+[17/01/2021 14:09:34.221]	Connected as [32mbf68b40292cd49c287c26d9b8c09d97e[0m
+[17/01/2021 14:09:44.734]	Service is stopping
+[17/01/2021 14:09:44.734]	Disconnecting from server
+[17/01/2021 14:09:46.545]	:XELA:finish:XELA:
+
+[17/01/2021 14:13:29.044]	Service is stopping
+[17/01/2021 14:13:29.044]	Disconnecting from server
+[17/01/2021 14:13:30.854]	:XELA:finish:XELA:
+
+[27/01/2021 10:40:21.289]	New log file: /etc/xela/LOG/xviz.log
+
+[27/01/2021 10:40:21.291]	Starting new Viz
+[27/01/2021 10:40:23.284]	DATA ID: 140659177896080
+[27/01/2021 10:40:23.288]	Connection established
+[27/01/2021 10:40:23.288]	Connected as [32m8effb475aaa249639d6886c68e419877[0m
+[27/01/2021 10:43:50.171]	New log file: /etc/xela/LOG/xviz.log
+
+[27/01/2021 10:43:50.171]	Starting new Viz
+[27/01/2021 10:43:51.112]	DATA ID: 139979793696784
+[27/01/2021 10:43:51.116]	Connection established
+[27/01/2021 10:43:51.116]	Connected as [32md7bfa66c05554f5093075792768212ed[0m
+[27/01/2021 10:43:52.882]	Service is stopping
+[27/01/2021 10:43:52.882]	Disconnecting from server
+[27/01/2021 10:43:54.688]	:XELA:finish:XELA:
+
+[27/01/2021 10:45:53.903]	New log file: /etc/xela/LOG/xviz.log
+
+[27/01/2021 10:45:53.904]	Starting new Viz
+[27/01/2021 10:45:54.846]	DATA ID: 140222607661200
+[27/01/2021 10:45:56.395]	Service is stopping
+[27/01/2021 10:45:56.395]	Disconnecting from server
+[27/01/2021 10:45:58.204]	:XELA:finish:XELA:
+
+[27/01/2021 10:54:12.832]	New log file: /etc/xela/LOG/xviz.log
+
+[27/01/2021 10:54:12.832]	Starting new Viz
+[27/01/2021 10:54:13.814]	DATA ID: 140304077777040
+[27/01/2021 10:54:17.125]	Service is stopping
+[27/01/2021 10:54:17.125]	Disconnecting from server
+[27/01/2021 10:54:18.934]	:XELA:finish:XELA:
+
+[27/01/2021 10:56:23.887]	New log file: /etc/xela/LOG/xviz.log
+
+[27/01/2021 10:56:23.887]	Starting new Viz
+[27/01/2021 10:56:24.878]	DATA ID: 139894395861200
+[27/01/2021 10:56:24.881]	Connection established
+[27/01/2021 10:56:24.881]	Connected as [32mf88df37c8e71480296aa663a5d70c6da[0m
+[05/02/2021 10:40:22.670]	New log file: /etc/xela/LOG/xviz.log
+
+[05/02/2021 10:40:22.671]	Starting new Viz
+[05/02/2021 10:40:23.802]	DATA ID: 139826200210192
+[05/02/2021 10:40:23.806]	Connection established
+[05/02/2021 10:40:23.806]	Connected as [32m86207b927ee1473ca77fe197409658ca[0m
+[05/02/2021 11:06:53.725]	New log file: /etc/xela/LOG/xviz.log
+
+[05/02/2021 11:06:53.725]	Starting new Viz
+[05/02/2021 11:06:54.423]	DATA ID: 139978507635088
+[05/02/2021 11:06:54.427]	Connection established
+[05/02/2021 11:06:54.427]	Connected as [32m00887a25b03e471d9f6acbf16487e000[0m
+[05/02/2021 12:32:14.363]	New log file: /etc/xela/LOG/xviz.log
+
+[05/02/2021 12:32:14.363]	Starting new Viz
+[05/02/2021 12:32:15.034]	DATA ID: 140571685263248
+[05/02/2021 12:32:15.039]	Connection established
+[05/02/2021 12:32:15.039]	Connected as [32me6910f7ed3d34cc685806cb39fe824fd[0m
+[05/02/2021 12:34:39.376]	New log file: /etc/xela/LOG/xviz.log
+
+[05/02/2021 12:34:39.376]	Starting new Viz
+[05/02/2021 12:34:40.066]	DATA ID: 140558573828048
+[05/02/2021 12:34:40.069]	Connection established
+[05/02/2021 12:34:40.069]	Connected as [32ma502e522bf1d496ab0dd976f946db5d0[0m
+[08/02/2021 14:57:14.454]	New log file: /etc/xela/LOG/xviz.log
+
+[08/02/2021 14:57:14.454]	Starting new Viz
+[08/02/2021 14:57:15.151]	DATA ID: 140046286354640
+[08/02/2021 14:57:15.155]	Connection established
+[08/02/2021 14:57:15.155]	Connected as [32m560a8a2ed3cd441484fd54e1db9267ef[0m
+[08/02/2021 14:59:14.015]	New log file: /etc/xela/LOG/xviz.log
+
+[08/02/2021 14:59:14.015]	Starting new Viz
+[08/02/2021 14:59:14.690]	DATA ID: 140213476497616
+[08/02/2021 14:59:14.693]	Connection established
+[08/02/2021 14:59:14.693]	Connected as [32m02f791f610b446b699c6b98c72c1167e[0m
+[08/02/2021 15:02:10.739]	New log file: /etc/xela/LOG/xviz.log
+
+[08/02/2021 15:02:10.739]	Starting new Viz
+[08/02/2021 15:02:11.414]	DATA ID: 140435786222288
+[08/02/2021 15:02:11.418]	Connection established
+[08/02/2021 15:02:11.418]	Connected as [32m0f32180058e64bdc9672bdfa7af0da51[0m
+[08/02/2021 15:05:01.082]	New log file: /etc/xela/LOG/xviz.log
+
+[08/02/2021 15:05:01.082]	Starting new Viz
+[08/02/2021 15:05:01.757]	DATA ID: 140668046514320
+[08/02/2021 15:05:01.761]	Connection established
+[08/02/2021 15:05:01.761]	Connected as [32md99c5a35a2fe4ce0acb9fc2ce204ad74[0m
+[08/02/2021 15:08:03.536]	New log file: /etc/xela/LOG/xviz.log
+
+[08/02/2021 15:08:03.536]	Starting new Viz
+[08/02/2021 15:08:04.230]	DATA ID: 140634671253840
+[08/02/2021 15:08:04.233]	Connection established
+[08/02/2021 15:08:04.234]	Connected as [32mf1d1cf05587d4b0a9492cdf485f7c27d[0m
+[08/02/2021 15:09:10.608]	New log file: /etc/xela/LOG/xviz.log
+
+[08/02/2021 15:09:10.608]	Starting new Viz
+[08/02/2021 15:09:11.285]	DATA ID: 140330448996368
+[08/02/2021 15:09:11.289]	Connection established
+[08/02/2021 15:09:11.289]	Connected as [32m864b947c70684cf985bcbd0aef4b8512[0m
+[08/02/2021 15:10:26.152]	New log file: /etc/xela/LOG/xviz.log
+
+[08/02/2021 15:10:26.153]	Starting new Viz
+[08/02/2021 15:10:26.835]	DATA ID: 139713164822608
+[08/02/2021 15:10:26.839]	Connection established
+[08/02/2021 15:10:26.839]	Connected as [32mfce7460466e943b78c832c0d0895ea3d[0m
+[18/02/2021 10:17:13.257]	New log file: /etc/xela/LOG/xviz.log
+
+[18/02/2021 10:17:13.257]	Starting new Viz
+[18/02/2021 10:17:13.377]	DATA ID: 139895190975952
+[18/02/2021 10:17:13.381]	Connection established
+[18/02/2021 10:17:13.381]	Connected as [32m5f3bd85a2014493aaf67d0dda00af028[0m
+[18/02/2021 10:17:15.515]	Service is stopping
+[18/02/2021 10:17:15.515]	Disconnecting from server
+[18/02/2021 10:17:17.324]	:XELA:finish:XELA:
+
+[22/02/2021 14:15:54.338]	New log file: /etc/xela/LOG/xviz.log
+
+[22/02/2021 14:15:54.339]	Starting new Viz
+[22/02/2021 14:15:54.468]	DATA ID: 140577046358544
+[22/02/2021 14:15:54.472]	Connection established
+[22/02/2021 14:15:54.472]	Connected as [32m24cfbec64a0a44628e98a35eb136108f[0m
+[17/03/2021 16:47:58.892]	New log file: /etc/xela/LOG/xviz.log
+
+[17/03/2021 16:47:58.893]	Starting new Viz
+[17/03/2021 16:47:59.069]	DATA ID: 140324725508368
+[17/03/2021 16:47:59.073]	Connection established
+[17/03/2021 16:47:59.073]	Connected as [32m7144674792ed4168bfafcfb935cadce9[0m
+[17/03/2021 17:22:27.303]	Service is stopping
+[17/03/2021 17:22:27.303]	Disconnecting from server
+[17/03/2021 17:22:29.107]	:XELA:finish:XELA:
+

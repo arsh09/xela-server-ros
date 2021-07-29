@@ -1,0 +1,846 @@
+[01/02/2021 10:48:04.757]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 10:48:04.901]	:XELA:start:XELA:
+[01/02/2021 10:48:04.901]	File: /home/kiyanoush/.ros
+[01/02/2021 10:48:04.901]	ARGS: {'failures': [(1612176484.8931518, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/f4e699be-647a-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 10:48:04.901]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 10:50:45.207]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 10:50:45.349]	:XELA:start:XELA:
+[01/02/2021 10:50:45.349]	File: /home/kiyanoush/.ros
+[01/02/2021 10:50:45.349]	ARGS: {'failures': [(1612176645.3414052, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/549f588c-647b-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 10:50:45.349]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 10:51:29.080]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 10:51:29.223]	:XELA:start:XELA:
+[01/02/2021 10:51:29.223]	File: /home/kiyanoush/.ros
+[01/02/2021 10:51:29.223]	ARGS: {'failures': [(1612176689.2148108, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/6ecc3f36-647b-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 10:51:29.223]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 10:52:38.469]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 10:52:38.613]	:XELA:start:XELA:
+[01/02/2021 10:52:38.613]	File: /home/kiyanoush/.ros
+[01/02/2021 10:52:38.613]	ARGS: {'failures': [(1612176758.6048474, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/9813ac6c-647b-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 10:52:38.613]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 10:56:42.800]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 10:56:42.941]	:XELA:start:XELA:
+[01/02/2021 10:56:42.941]	File: /home/kiyanoush/.ros
+[01/02/2021 10:56:42.941]	ARGS: {'failures': [(1612177002.9334462, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/29b81540-647c-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 10:56:42.941]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 10:57:19.250]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 10:57:19.393]	:XELA:start:XELA:
+[01/02/2021 10:57:19.393]	File: /home/kiyanoush/.ros
+[01/02/2021 10:57:19.393]	ARGS: {'failures': [(1612177039.3848124, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/3f7fb72a-647c-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 10:57:19.393]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 10:58:27.755]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 10:58:27.897]	:XELA:start:XELA:
+[01/02/2021 10:58:27.897]	File: /home/kiyanoush/.ros
+[01/02/2021 10:58:27.897]	ARGS: {'failures': [(1612177107.8886943, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/68401920-647c-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 10:58:27.897]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 10:59:41.036]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 10:59:41.179]	:XELA:start:XELA:
+[01/02/2021 10:59:41.179]	File: /home/kiyanoush/.ros
+[01/02/2021 10:59:41.179]	ARGS: {'failures': [(1612177181.1711059, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/9403ea50-647c-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 10:59:41.179]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:00:20.622]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:00:20.767]	:XELA:start:XELA:
+[01/02/2021 11:00:20.767]	File: /home/kiyanoush/.ros
+[01/02/2021 11:00:20.767]	ARGS: {'failures': [(1612177220.7594812, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/ab9087fa-647c-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:00:20.767]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:01:41.807]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:01:41.950]	:XELA:start:XELA:
+[01/02/2021 11:01:41.950]	File: /home/kiyanoush/.ros
+[01/02/2021 11:01:41.950]	ARGS: {'failures': [(1612177301.9422126, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/dbe5b3f8-647c-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:01:41.950]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:04:52.901]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:04:53.044]	:XELA:start:XELA:
+[01/02/2021 11:04:53.044]	File: /home/kiyanoush/.ros
+[01/02/2021 11:04:53.044]	ARGS: {'failures': [(1612177493.0361357, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/4de80b9a-647d-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:04:53.044]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:05:33.956]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:05:34.098]	:XELA:start:XELA:
+[01/02/2021 11:05:34.098]	File: /home/kiyanoush/.ros
+[01/02/2021 11:05:34.098]	ARGS: {'failures': [(1612177534.0900533, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/6650a25a-647d-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:05:34.098]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:06:24.880]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:06:25.027]	:XELA:start:XELA:
+[01/02/2021 11:06:25.027]	File: /home/kiyanoush/.ros
+[01/02/2021 11:06:25.027]	ARGS: {'failures': [(1612177585.018493, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/84abc0d6-647d-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:06:25.027]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:07:31.496]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:07:31.642]	:XELA:start:XELA:
+[01/02/2021 11:07:31.642]	File: /home/kiyanoush/.ros
+[01/02/2021 11:07:31.642]	ARGS: {'failures': [(1612177651.6324625, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/ac5cd520-647d-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:07:31.642]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:08:32.527]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:08:32.671]	:XELA:start:XELA:
+[01/02/2021 11:08:32.671]	File: /home/kiyanoush/.ros
+[01/02/2021 11:08:32.671]	ARGS: {'failures': [(1612177712.663696, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/d0bf749a-647d-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:08:32.672]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:09:38.203]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:09:38.346]	:XELA:start:XELA:
+[01/02/2021 11:09:38.346]	File: /home/kiyanoush/.ros
+[01/02/2021 11:09:38.346]	ARGS: {'failures': [(1612177778.3382442, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/f7cde0c6-647d-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:09:38.346]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:11:32.942]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:11:33.088]	:XELA:start:XELA:
+[01/02/2021 11:11:33.088]	File: /home/kiyanoush/.ros
+[01/02/2021 11:11:33.088]	ARGS: {'failures': [(1612177893.0804298, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/3c47d3f6-647e-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:11:33.088]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:12:42.660]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:12:42.804]	:XELA:start:XELA:
+[01/02/2021 11:12:42.804]	File: /home/kiyanoush/.ros
+[01/02/2021 11:12:42.804]	ARGS: {'failures': [(1612177962.7961566, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/65d4cf76-647e-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:12:42.804]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:14:08.437]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:14:08.581]	:XELA:start:XELA:
+[01/02/2021 11:14:08.581]	File: /home/kiyanoush/.ros
+[01/02/2021 11:14:08.581]	ARGS: {'failures': [(1612178048.573288, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/990a305c-647e-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:14:08.581]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:14:40.867]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:14:41.013]	:XELA:start:XELA:
+[01/02/2021 11:14:41.013]	File: /home/kiyanoush/.ros
+[01/02/2021 11:14:41.013]	ARGS: {'failures': [(1612178081.0053983, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/ac5bffb4-647e-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:14:41.013]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:15:23.063]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:15:23.205]	:XELA:start:XELA:
+[01/02/2021 11:15:23.205]	File: /home/kiyanoush/.ros
+[01/02/2021 11:15:23.205]	ARGS: {'failures': [(1612178123.1974807, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/c583550a-647e-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:15:23.205]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:16:30.350]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:16:30.494]	:XELA:start:XELA:
+[01/02/2021 11:16:30.494]	File: /home/kiyanoush/.ros
+[01/02/2021 11:16:30.494]	ARGS: {'failures': [(1612178190.485838, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/eda060fa-647e-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:16:30.494]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:17:32.934]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:17:33.078]	:XELA:start:XELA:
+[01/02/2021 11:17:33.078]	File: /home/kiyanoush/.ros
+[01/02/2021 11:17:33.078]	ARGS: {'failures': [(1612178253.069753, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/12e72c18-647f-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:17:33.078]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:18:28.823]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:18:28.966]	:XELA:start:XELA:
+[01/02/2021 11:18:28.966]	File: /home/kiyanoush/.ros
+[01/02/2021 11:18:28.966]	ARGS: {'failures': [(1612178308.9585714, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/3422cd4c-647f-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:18:28.966]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:19:10.534]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:19:10.678]	:XELA:start:XELA:
+[01/02/2021 11:19:10.678]	File: /home/kiyanoush/.ros
+[01/02/2021 11:19:10.679]	ARGS: {'failures': [(1612178350.668869, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/4cec3d04-647f-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:19:10.679]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:19:53.057]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:19:53.201]	:XELA:start:XELA:
+[01/02/2021 11:19:53.201]	File: /home/kiyanoush/.ros
+[01/02/2021 11:19:53.201]	ARGS: {'failures': [(1612178393.1931436, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/6669cb5c-647f-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:19:53.201]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:20:35.425]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:20:35.569]	:XELA:start:XELA:
+[01/02/2021 11:20:35.569]	File: /home/kiyanoush/.ros
+[01/02/2021 11:20:35.569]	ARGS: {'failures': [(1612178435.5610657, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/7fb336e8-647f-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:20:35.569]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:21:23.165]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:21:23.309]	:XELA:start:XELA:
+[01/02/2021 11:21:23.310]	File: /home/kiyanoush/.ros
+[01/02/2021 11:21:23.310]	ARGS: {'failures': [(1612178483.301071, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/9c27364e-647f-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:21:23.310]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:22:34.150]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:22:34.293]	:XELA:start:XELA:
+[01/02/2021 11:22:34.293]	File: /home/kiyanoush/.ros
+[01/02/2021 11:22:34.293]	ARGS: {'failures': [(1612178554.2850084, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/c66a4270-647f-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:22:34.294]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:23:16.584]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:23:16.731]	:XELA:start:XELA:
+[01/02/2021 11:23:16.731]	File: /home/kiyanoush/.ros
+[01/02/2021 11:23:16.731]	ARGS: {'failures': [(1612178596.722169, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/dfbd634c-647f-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:23:16.732]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:23:59.188]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:23:59.332]	:XELA:start:XELA:
+[01/02/2021 11:23:59.332]	File: /home/kiyanoush/.ros
+[01/02/2021 11:23:59.332]	ARGS: {'failures': [(1612178639.3240914, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/f9112522-647f-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:23:59.332]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:24:35.553]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:24:35.698]	:XELA:start:XELA:
+[01/02/2021 11:24:35.698]	File: /home/kiyanoush/.ros
+[01/02/2021 11:24:35.698]	ARGS: {'failures': [(1612178675.6899045, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/0ed20502-6480-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:24:35.698]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:25:27.310]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:25:27.454]	:XELA:start:XELA:
+[01/02/2021 11:25:27.454]	File: /home/kiyanoush/.ros
+[01/02/2021 11:25:27.454]	ARGS: {'failures': [(1612178727.4460113, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/2da67738-6480-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:25:27.454]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:41:25.821]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:41:25.982]	:XELA:start:XELA:
+[01/02/2021 11:41:25.982]	File: /home/kiyanoush/.ros
+[01/02/2021 11:41:25.982]	ARGS: {'failures': [(1612179685.9739854, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/68f1267e-6482-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:41:25.982]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:42:29.656]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:42:29.799]	:XELA:start:XELA:
+[01/02/2021 11:42:29.799]	File: /home/kiyanoush/.ros
+[01/02/2021 11:42:29.799]	ARGS: {'failures': [(1612179749.7917335, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/8f091e0c-6482-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:42:29.800]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:43:10.171]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:43:10.313]	:XELA:start:XELA:
+[01/02/2021 11:43:10.313]	File: /home/kiyanoush/.ros
+[01/02/2021 11:43:10.313]	ARGS: {'failures': [(1612179790.3053303, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/a72d9f76-6482-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:43:10.313]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:43:54.243]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:43:54.388]	:XELA:start:XELA:
+[01/02/2021 11:43:54.388]	File: /home/kiyanoush/.ros
+[01/02/2021 11:43:54.388]	ARGS: {'failures': [(1612179834.380085, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/c16551ea-6482-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:43:54.388]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:44:47.227]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:44:47.371]	:XELA:start:XELA:
+[01/02/2021 11:44:47.371]	File: /home/kiyanoush/.ros
+[01/02/2021 11:44:47.371]	ARGS: {'failures': [(1612179887.3634622, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/e1024e9a-6482-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:44:47.372]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:45:41.885]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:45:42.031]	:XELA:start:XELA:
+[01/02/2021 11:45:42.031]	File: /home/kiyanoush/.ros
+[01/02/2021 11:45:42.031]	ARGS: {'failures': [(1612179942.022311, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/019e7660-6483-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:45:42.031]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:46:29.885]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:46:30.028]	:XELA:start:XELA:
+[01/02/2021 11:46:30.029]	File: /home/kiyanoush/.ros
+[01/02/2021 11:46:30.029]	ARGS: {'failures': [(1612179990.020647, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/1e38f3fe-6483-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:46:30.029]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:47:10.548]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:47:10.692]	:XELA:start:XELA:
+[01/02/2021 11:47:10.692]	File: /home/kiyanoush/.ros
+[01/02/2021 11:47:10.692]	ARGS: {'failures': [(1612180030.6825652, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/366adce4-6483-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:47:10.692]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:47:59.054]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:47:59.198]	:XELA:start:XELA:
+[01/02/2021 11:47:59.198]	File: /home/kiyanoush/.ros
+[01/02/2021 11:47:59.198]	ARGS: {'failures': [(1612180079.1901834, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/535fbb8a-6483-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:47:59.198]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:48:43.950]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:48:44.094]	:XELA:start:XELA:
+[01/02/2021 11:48:44.094]	File: /home/kiyanoush/.ros
+[01/02/2021 11:48:44.094]	ARGS: {'failures': [(1612180124.0862153, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/6e1bc1ee-6483-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:48:44.094]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:49:40.371]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:49:40.513]	:XELA:start:XELA:
+[01/02/2021 11:49:40.513]	File: /home/kiyanoush/.ros
+[01/02/2021 11:49:40.514]	ARGS: {'failures': [(1612180180.5054111, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/8fb07002-6483-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:49:40.514]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:50:24.709]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:50:24.854]	:XELA:start:XELA:
+[01/02/2021 11:50:24.854]	File: /home/kiyanoush/.ros
+[01/02/2021 11:50:24.854]	ARGS: {'failures': [(1612180224.8462257, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/aa17fffa-6483-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:50:24.854]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 11:51:10.596]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 11:51:10.737]	:XELA:start:XELA:
+[01/02/2021 11:51:10.738]	File: /home/kiyanoush/.ros
+[01/02/2021 11:51:10.738]	ARGS: {'failures': [(1612180270.729848, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/c58ce408-6483-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 11:51:10.738]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:00:43.429]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:00:43.572]	:XELA:start:XELA:
+[01/02/2021 12:00:43.572]	File: /home/kiyanoush/.ros
+[01/02/2021 12:00:43.572]	ARGS: {'failures': [(1612180843.5645163, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/1add68fa-6485-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:00:43.572]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:01:40.498]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:01:40.640]	:XELA:start:XELA:
+[01/02/2021 12:01:40.640]	File: /home/kiyanoush/.ros
+[01/02/2021 12:01:40.640]	ARGS: {'failures': [(1612180900.6324189, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/3cff3a58-6485-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:01:40.640]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:02:21.967]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:02:22.109]	:XELA:start:XELA:
+[01/02/2021 12:02:22.110]	File: /home/kiyanoush/.ros
+[01/02/2021 12:02:22.110]	ARGS: {'failures': [(1612180942.1016548, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/5597715c-6485-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:02:22.110]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:03:17.841]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:03:17.986]	:XELA:start:XELA:
+[01/02/2021 12:03:17.986]	File: /home/kiyanoush/.ros
+[01/02/2021 12:03:17.986]	ARGS: {'failures': [(1612180997.9785962, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/76e5e9ba-6485-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:03:17.987]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:03:57.504]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:03:57.649]	:XELA:start:XELA:
+[01/02/2021 12:03:57.649]	File: /home/kiyanoush/.ros
+[01/02/2021 12:03:57.649]	ARGS: {'failures': [(1612181037.6416173, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/8ea06c74-6485-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:03:57.650]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:04:38.312]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:04:38.459]	:XELA:start:XELA:
+[01/02/2021 12:04:38.459]	File: /home/kiyanoush/.ros
+[01/02/2021 12:04:38.459]	ARGS: {'failures': [(1612181078.4505072, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/a6f7ee78-6485-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:04:38.459]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:05:18.740]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:05:18.883]	:XELA:start:XELA:
+[01/02/2021 12:05:18.883]	File: /home/kiyanoush/.ros
+[01/02/2021 12:05:18.883]	ARGS: {'failures': [(1612181118.875311, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/bf00bcde-6485-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:05:18.883]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:05:59.637]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:05:59.780]	:XELA:start:XELA:
+[01/02/2021 12:05:59.780]	File: /home/kiyanoush/.ros
+[01/02/2021 12:05:59.780]	ARGS: {'failures': [(1612181159.7716131, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/d75d04e0-6485-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:05:59.781]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:06:38.820]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:06:38.963]	:XELA:start:XELA:
+[01/02/2021 12:06:38.963]	File: /home/kiyanoush/.ros
+[01/02/2021 12:06:38.963]	ARGS: {'failures': [(1612181198.9548666, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/eebb0f10-6485-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:06:38.963]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:07:40.593]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:07:40.735]	:XELA:start:XELA:
+[01/02/2021 12:07:40.735]	File: /home/kiyanoush/.ros
+[01/02/2021 12:07:40.735]	ARGS: {'failures': [(1612181260.7277365, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/138a5ed6-6486-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:07:40.735]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:13:34.297]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:13:34.441]	:XELA:start:XELA:
+[01/02/2021 12:13:34.441]	File: /home/kiyanoush/.ros
+[01/02/2021 12:13:34.441]	ARGS: {'failures': [(1612181614.4332843, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/e673a9e2-6486-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:13:34.441]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:15:26.751]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:15:26.894]	:XELA:start:XELA:
+[01/02/2021 12:15:26.894]	File: /home/kiyanoush/.ros
+[01/02/2021 12:15:26.894]	ARGS: {'failures': [(1612181726.8861227, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/2968aefa-6487-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:15:26.894]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:16:43.225]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:16:43.368]	:XELA:start:XELA:
+[01/02/2021 12:16:43.368]	File: /home/kiyanoush/.ros
+[01/02/2021 12:16:43.368]	ARGS: {'failures': [(1612181803.3603144, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/56fcbafa-6487-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:16:43.368]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:17:47.466]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:17:47.609]	:XELA:start:XELA:
+[01/02/2021 12:17:47.609]	File: /home/kiyanoush/.ros
+[01/02/2021 12:17:47.609]	ARGS: {'failures': [(1612181867.6013465, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/7d59bc34-6487-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:17:47.610]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:20:35.801]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:20:35.946]	:XELA:start:XELA:
+[01/02/2021 12:20:35.946]	File: /home/kiyanoush/.ros
+[01/02/2021 12:20:35.946]	ARGS: {'failures': [(1612182035.9366364, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/e1a7877a-6487-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:20:35.946]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:21:27.654]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:21:27.800]	:XELA:start:XELA:
+[01/02/2021 12:21:27.800]	File: /home/kiyanoush/.ros
+[01/02/2021 12:21:27.800]	ARGS: {'failures': [(1612182087.7918904, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/0096680e-6488-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:21:27.800]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:22:24.596]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:22:24.740]	:XELA:start:XELA:
+[01/02/2021 12:22:24.740]	File: /home/kiyanoush/.ros
+[01/02/2021 12:22:24.740]	ARGS: {'failures': [(1612182144.7323322, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/2273d36c-6488-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:22:24.740]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:23:19.748]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:23:19.893]	:XELA:start:XELA:
+[01/02/2021 12:23:19.893]	File: /home/kiyanoush/.ros
+[01/02/2021 12:23:19.893]	ARGS: {'failures': [(1612182199.8838942, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/434d6b2a-6488-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:23:19.893]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:24:14.772]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:24:14.916]	:XELA:start:XELA:
+[01/02/2021 12:24:14.916]	File: /home/kiyanoush/.ros
+[01/02/2021 12:24:14.916]	ARGS: {'failures': [(1612182254.9083316, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/642f63ac-6488-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:24:14.916]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[01/02/2021 12:25:30.952]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[01/02/2021 12:25:31.096]	:XELA:start:XELA:
+[01/02/2021 12:25:31.096]	File: /home/kiyanoush/.ros
+[01/02/2021 12:25:31.096]	ARGS: {'failures': [(1612182331.088311, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/9199b374-6488-11eb-be44-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[01/02/2021 12:25:31.096]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[03/02/2021 16:15:40.921]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[03/02/2021 16:15:41.063]	:XELA:start:XELA:
+[03/02/2021 16:15:41.063]	File: /home/kiyanoush/.ros
+[03/02/2021 16:15:41.063]	ARGS: {'failures': [(1612368941.0555742, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/0dd8bada-663b-11eb-be44-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[03/02/2021 16:15:41.063]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[05/02/2021 10:26:35.281]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[05/02/2021 10:26:35.424]	:XELA:start:XELA:
+[05/02/2021 10:26:35.424]	File: /home/kiyanoush/.ros
+[05/02/2021 10:26:35.424]	ARGS: {'failures': [(1612520795.4141223, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/9dc3a6e8-679c-11eb-be99-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[05/02/2021 10:26:35.424]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[05/02/2021 12:08:27.717]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[05/02/2021 12:08:27.859]	:XELA:start:XELA:
+[05/02/2021 12:08:27.859]	File: /home/kiyanoush/.ros
+[05/02/2021 12:08:27.859]	ARGS: {'failures': [(1612526907.8512537, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/d96300fa-67aa-11eb-be99-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[05/02/2021 12:08:27.859]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[05/02/2021 12:12:50.382]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[05/02/2021 12:12:50.522]	:XELA:start:XELA:
+[05/02/2021 12:12:50.522]	File: /home/kiyanoush
+[05/02/2021 12:12:50.522]	ARGS: {'failures': [(1612527170.5147536, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': None, 'rosname': None, 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[05/02/2021 12:12:50.522]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[05/02/2021 12:13:22.517]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[05/02/2021 12:13:22.657]	:XELA:start:XELA:
+[05/02/2021 12:13:22.657]	File: /home/kiyanoush/.ros
+[05/02/2021 12:13:22.657]	ARGS: {'failures': [(1612527202.6499035, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/d96300fa-67aa-11eb-be99-98f2b3043b75/xela_server-3.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[05/02/2021 12:13:22.658]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[05/02/2021 12:17:03.274]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[05/02/2021 12:17:03.415]	:XELA:start:XELA:
+[05/02/2021 12:17:03.415]	File: /home/kiyanoush/.ros
+[05/02/2021 12:17:03.415]	ARGS: {'failures': [(1612527423.4052634, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/0cb10d48-67ac-11eb-be99-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[05/02/2021 12:17:03.415]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[05/02/2021 12:19:56.920]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[05/02/2021 12:19:57.058]	:XELA:start:XELA:
+[05/02/2021 12:19:57.058]	File: /home/kiyanoush/.ros
+[05/02/2021 12:19:57.058]	ARGS: {'failures': [(1612527597.0501363, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/7420f07e-67ac-11eb-be99-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[05/02/2021 12:19:57.058]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[08/02/2021 13:43:45.957]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[08/02/2021 13:43:46.096]	:XELA:start:XELA:
+[08/02/2021 13:43:46.096]	File: /home/kiyanoush/.ros
+[08/02/2021 13:43:46.096]	ARGS: {'failures': [(1612791826.0882378, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/a8ff3f94-6a13-11eb-be99-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[08/02/2021 13:43:46.096]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[08/02/2021 14:41:29.681]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[08/02/2021 14:41:29.820]	:XELA:start:XELA:
+[08/02/2021 14:41:29.820]	File: /home/kiyanoush/.ros
+[08/02/2021 14:41:29.820]	ARGS: {'failures': [(1612795289.8125143, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/b982e03e-6a1b-11eb-be99-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[08/02/2021 14:41:29.820]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[08/02/2021 14:42:59.095]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[08/02/2021 14:42:59.233]	:XELA:start:XELA:
+[08/02/2021 14:42:59.233]	File: /home/kiyanoush/.ros
+[08/02/2021 14:42:59.233]	ARGS: {'failures': [(1612795379.225832, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/eece9378-6a1b-11eb-be99-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[08/02/2021 14:42:59.234]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[08/02/2021 14:44:39.161]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[08/02/2021 14:44:39.301]	:XELA:start:XELA:
+[08/02/2021 14:44:39.302]	File: /home/kiyanoush/.ros
+[08/02/2021 14:44:39.302]	ARGS: {'failures': [(1612795479.2941523, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/2a5e8bdc-6a1c-11eb-be99-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[08/02/2021 14:44:39.302]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[08/02/2021 14:45:55.495]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[08/02/2021 14:45:55.634]	:XELA:start:XELA:
+[08/02/2021 14:45:55.634]	File: /home/kiyanoush/.ros
+[08/02/2021 14:45:55.634]	ARGS: {'failures': [(1612795555.626285, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/57cee4f4-6a1c-11eb-be99-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[08/02/2021 14:45:55.634]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[08/02/2021 14:56:59.454]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[08/02/2021 14:56:59.592]	:XELA:start:XELA:
+[08/02/2021 14:56:59.592]	File: /home/kiyanoush/.ros
+[08/02/2021 14:56:59.592]	ARGS: {'failures': [(1612796219.5847247, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/e3b9d946-6a1d-11eb-be99-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[08/02/2021 14:56:59.592]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[08/02/2021 14:59:06.340]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[08/02/2021 14:59:06.479]	:XELA:start:XELA:
+[08/02/2021 14:59:06.479]	File: /home/kiyanoush/.ros
+[08/02/2021 14:59:06.479]	ARGS: {'failures': [(1612796346.4719412, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/2f519038-6a1e-11eb-be99-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[08/02/2021 14:59:06.480]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[08/02/2021 15:17:52.856]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[08/02/2021 15:17:52.996]	:XELA:start:XELA:
+[08/02/2021 15:17:52.996]	File: /home/kiyanoush/.ros
+[08/02/2021 15:17:52.996]	ARGS: {'failures': [(1612797472.9885237, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/ceb1bb60-6a20-11eb-be99-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[08/02/2021 15:17:52.996]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[18/02/2021 15:21:51.251]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[18/02/2021 15:21:51.390]	:XELA:start:XELA:
+[18/02/2021 15:21:51.390]	File: /home/kiyanoush/.ros
+[18/02/2021 15:21:51.390]	ARGS: {'failures': [(1613661711.3822277, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/050965f8-71fd-11eb-be99-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[18/02/2021 15:21:51.390]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[18/02/2021 15:25:56.290]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[18/02/2021 15:25:56.429]	:XELA:start:XELA:
+[18/02/2021 15:25:56.430]	File: /home/kiyanoush/.ros
+[18/02/2021 15:25:56.430]	ARGS: {'failures': [(1613661956.422143, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/9706806c-71fd-11eb-be99-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[18/02/2021 15:25:56.430]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[18/02/2021 16:34:25.393]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[18/02/2021 16:34:25.532]	:XELA:start:XELA:
+[18/02/2021 16:34:25.532]	File: /home/kiyanoush/.ros
+[18/02/2021 16:34:25.532]	ARGS: {'failures': [(1613666065.5229304, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/281dfea0-7207-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[18/02/2021 16:34:25.533]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[18/02/2021 17:27:42.529]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[18/02/2021 17:27:42.666]	:XELA:start:XELA:
+[18/02/2021 17:27:42.666]	File: /home/kiyanoush/.ros
+[18/02/2021 17:27:42.666]	ARGS: {'failures': [(1613669262.6587746, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/9a1a15a0-720e-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[18/02/2021 17:27:42.666]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[20/02/2021 13:52:01.606]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[20/02/2021 13:52:01.750]	:XELA:start:XELA:
+[20/02/2021 13:52:01.750]	File: /home/kiyanoush/.ros
+[20/02/2021 13:52:01.750]	ARGS: {'failures': [(1613829121.741584, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/cd8692cc-7382-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[20/02/2021 13:52:01.751]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[20/02/2021 13:53:10.179]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[20/02/2021 13:53:10.322]	:XELA:start:XELA:
+[20/02/2021 13:53:10.323]	File: /home/kiyanoush/.ros
+[20/02/2021 13:53:10.323]	ARGS: {'failures': [(1613829190.3146658, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/f640e0b4-7382-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[20/02/2021 13:53:10.323]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[20/02/2021 14:25:43.366]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[20/02/2021 14:25:43.506]	:XELA:start:XELA:
+[20/02/2021 14:25:43.506]	File: /home/kiyanoush/.ros
+[20/02/2021 14:25:43.506]	ARGS: {'failures': [(1613831143.498749, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/829740f4-7387-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[20/02/2021 14:25:43.507]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[21/02/2021 12:39:32.631]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[21/02/2021 12:39:32.769]	:XELA:start:XELA:
+[21/02/2021 12:39:32.769]	File: /home/kiyanoush/.ros
+[21/02/2021 12:39:32.769]	ARGS: {'failures': [(1613911172.761502, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/d7c18bd8-7441-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[21/02/2021 12:39:32.769]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[21/02/2021 14:30:10.472]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[21/02/2021 14:30:10.614]	:XELA:start:XELA:
+[21/02/2021 14:30:10.614]	File: /home/kiyanoush/.ros
+[21/02/2021 14:30:10.614]	ARGS: {'failures': [(1613917810.6064618, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/4c33f6b8-7451-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[21/02/2021 14:30:10.614]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[21/02/2021 16:03:56.941]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[21/02/2021 16:03:57.084]	:XELA:start:XELA:
+[21/02/2021 16:03:57.084]	File: /home/kiyanoush/.ros
+[21/02/2021 16:03:57.084]	ARGS: {'failures': [(1613923437.0761654, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/65bc677a-745e-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[21/02/2021 16:03:57.084]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[22/02/2021 09:58:17.524]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[22/02/2021 09:58:17.666]	:XELA:start:XELA:
+[22/02/2021 09:58:17.666]	File: /home/kiyanoush/.ros
+[22/02/2021 09:58:17.666]	ARGS: {'failures': [(1613987897.6583831, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/7b554f5c-74f4-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[22/02/2021 09:58:17.666]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[22/02/2021 10:50:12.243]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[22/02/2021 10:50:12.381]	:XELA:start:XELA:
+[22/02/2021 10:50:12.381]	File: /home/kiyanoush/.ros
+[22/02/2021 10:50:12.381]	ARGS: {'failures': [(1613991012.3733263, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/bbdd7f66-74fb-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[22/02/2021 10:50:12.381]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[22/02/2021 12:41:38.581]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[22/02/2021 12:41:38.721]	:XELA:start:XELA:
+[22/02/2021 12:41:38.721]	File: /home/kiyanoush/.ros
+[22/02/2021 12:41:38.721]	ARGS: {'failures': [(1613997698.7134433, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/4d3832da-750b-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[22/02/2021 12:41:38.721]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[22/02/2021 13:09:24.199]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[22/02/2021 13:09:24.339]	:XELA:start:XELA:
+[22/02/2021 13:09:24.339]	File: /home/kiyanoush/.ros
+[22/02/2021 13:09:24.339]	ARGS: {'failures': [(1613999364.3311656, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/2e05394a-750f-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[22/02/2021 13:09:24.339]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[22/02/2021 13:23:19.588]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[22/02/2021 13:23:19.732]	:XELA:start:XELA:
+[22/02/2021 13:23:19.732]	File: /home/kiyanoush/.ros
+[22/02/2021 13:23:19.732]	ARGS: {'failures': [(1614000199.7244856, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/1fefc01c-7511-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[22/02/2021 13:23:19.732]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[22/02/2021 14:15:39.764]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[22/02/2021 14:15:39.905]	:XELA:start:XELA:
+[22/02/2021 14:15:39.905]	File: /home/kiyanoush/.ros
+[22/02/2021 14:15:39.905]	ARGS: {'failures': [(1614003339.8973448, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/6fa56754-7518-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[22/02/2021 14:15:39.905]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[22/02/2021 14:19:50.647]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[22/02/2021 14:19:50.786]	:XELA:start:XELA:
+[22/02/2021 14:19:50.786]	File: /home/kiyanoush/.ros
+[22/02/2021 14:19:50.786]	ARGS: {'failures': [(1614003590.7786458, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/05295ca4-7519-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[22/02/2021 14:19:50.786]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[22/02/2021 14:28:12.100]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[22/02/2021 14:28:12.240]	:XELA:start:XELA:
+[22/02/2021 14:28:12.240]	File: /home/kiyanoush/.ros
+[22/02/2021 14:28:12.240]	ARGS: {'failures': [(1614004092.232021, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/30131724-751a-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[22/02/2021 14:28:12.240]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[22/02/2021 14:31:08.960]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[22/02/2021 14:31:09.100]	:XELA:start:XELA:
+[22/02/2021 14:31:09.100]	File: /home/kiyanoush/.ros
+[22/02/2021 14:31:09.100]	ARGS: {'failures': [(1614004269.09202, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/99615c4a-751a-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[22/02/2021 14:31:09.100]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[22/02/2021 15:04:23.077]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[22/02/2021 15:04:23.218]	:XELA:start:XELA:
+[22/02/2021 15:04:23.218]	File: /home/kiyanoush/.ros
+[22/02/2021 15:04:23.218]	ARGS: {'failures': [(1614006263.2100203, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/3e12e05c-751f-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[22/02/2021 15:04:23.218]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[22/02/2021 15:06:44.769]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[22/02/2021 15:06:44.912]	:XELA:start:XELA:
+[22/02/2021 15:06:44.912]	File: /home/kiyanoush/.ros
+[22/02/2021 15:06:44.912]	ARGS: {'failures': [(1614006404.9040062, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/9283e28a-751f-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[22/02/2021 15:06:44.912]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[22/02/2021 15:21:15.427]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[22/02/2021 15:21:15.567]	:XELA:start:XELA:
+[22/02/2021 15:21:15.567]	File: /home/kiyanoush/.ros
+[22/02/2021 15:21:15.568]	ARGS: {'failures': [(1614007275.559863, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/996ee55c-7521-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[22/02/2021 15:21:15.568]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[22/02/2021 15:29:43.230]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[22/02/2021 15:29:43.371]	:XELA:start:XELA:
+[22/02/2021 15:29:43.371]	File: /home/kiyanoush/.ros
+[22/02/2021 15:29:43.371]	ARGS: {'failures': [(1614007783.3637018, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/c828ac06-7522-11eb-a736-98f2b3043b75/xela_server-4.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[22/02/2021 15:29:43.372]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[09/03/2021 11:38:01.847]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[09/03/2021 11:38:01.922]	:XELA:start:XELA:
+[09/03/2021 11:38:01.923]	File: /home/kiyanoush/.ros
+[09/03/2021 11:38:01.923]	ARGS: {'failures': [(1615289881.9201257, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/e6f3cc24-80cb-11eb-a5f9-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[09/03/2021 11:38:01.923]	EXEC: /home/kiyanoush/catkin_ws/src/xela_server/scripts/xela_server
+[09/03/2021 12:15:29.379]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[09/03/2021 12:15:29.443]	:XELA:start:XELA:
+[09/03/2021 12:15:29.443]	File: /home/kiyanoush/.ros
+[09/03/2021 12:15:29.443]	ARGS: {'failures': [(1615292129.440625, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/22ad7aee-80d1-11eb-a5f9-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[09/03/2021 12:15:29.443]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[09/03/2021 12:18:45.839]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[09/03/2021 12:18:45.903]	:XELA:start:XELA:
+[09/03/2021 12:18:45.903]	File: /home/kiyanoush/.ros
+[09/03/2021 12:18:45.903]	ARGS: {'failures': [(1615292325.9008508, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/97a6c486-80d1-11eb-a5f9-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[09/03/2021 12:18:45.903]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[09/03/2021 12:20:18.871]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[09/03/2021 12:20:18.957]	:XELA:start:XELA:
+[09/03/2021 12:20:18.957]	File: /home/kiyanoush/.ros
+[09/03/2021 12:20:18.957]	ARGS: {'failures': [(1615292418.9540453, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/cef7b94a-80d1-11eb-a5f9-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[09/03/2021 12:20:18.958]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[09/03/2021 12:22:08.950]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[09/03/2021 12:22:09.018]	:XELA:start:XELA:
+[09/03/2021 12:22:09.018]	File: /home/kiyanoush/.ros
+[09/03/2021 12:22:09.018]	ARGS: {'failures': [(1615292529.0149379, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/108ae986-80d2-11eb-a5f9-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[09/03/2021 12:22:09.019]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[09/03/2021 12:55:00.774]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[09/03/2021 12:55:00.918]	:XELA:start:XELA:
+[09/03/2021 12:55:00.919]	File: /home/kiyanoush/.ros
+[09/03/2021 12:55:00.919]	ARGS: {'failures': [(1615294500.9089193, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/a6cb6e3a-80d6-11eb-8042-98f2b3043b75/xela_server-15.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[09/03/2021 12:55:00.919]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[09/03/2021 12:55:30.320]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[09/03/2021 12:55:30.464]	:XELA:start:XELA:
+[09/03/2021 12:55:30.464]	File: /home/kiyanoush/.ros
+[09/03/2021 12:55:30.464]	ARGS: {'failures': [(1615294530.455869, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/b888df2c-80d6-11eb-8042-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[09/03/2021 12:55:30.464]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[10/03/2021 13:04:20.067]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[10/03/2021 13:04:20.255]	:XELA:start:XELA:
+[10/03/2021 13:04:20.256]	File: /home/kiyanoush/.ros
+[10/03/2021 13:04:20.256]	ARGS: {'failures': [(1615381460.2258952, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/1e5a7ac0-81a1-11eb-a260-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[10/03/2021 13:04:20.256]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[10/03/2021 16:21:55.887]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[10/03/2021 16:21:56.220]	:XELA:start:XELA:
+[10/03/2021 16:21:56.220]	File: /home/kiyanoush/.ros
+[10/03/2021 16:21:56.220]	ARGS: {'failures': [(1615393316.1625898, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/3a2b317c-81a1-11eb-a260-98f2b3043b75/xela_server-5.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[10/03/2021 16:21:56.221]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[10/03/2021 16:23:47.749]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[10/03/2021 16:23:47.927]	:XELA:start:XELA:
+[10/03/2021 16:23:47.927]	File: /home/kiyanoush/.ros
+[10/03/2021 16:23:47.927]	ARGS: {'failures': [(1615393427.9140615, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/3a2b317c-81a1-11eb-a260-98f2b3043b75/xela_server-5.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[10/03/2021 16:23:47.928]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[10/03/2021 16:25:06.557]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[10/03/2021 16:25:06.706]	:XELA:start:XELA:
+[10/03/2021 16:25:06.706]	File: /home/kiyanoush/.ros
+[10/03/2021 16:25:06.706]	ARGS: {'failures': [(1615393506.6955714, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/3a2b317c-81a1-11eb-a260-98f2b3043b75/xela_server-3.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[10/03/2021 16:25:06.706]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[10/03/2021 16:27:04.970]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[10/03/2021 16:27:05.148]	:XELA:start:XELA:
+[10/03/2021 16:27:05.148]	File: /home/kiyanoush/.ros
+[10/03/2021 16:27:05.148]	ARGS: {'failures': [(1615393625.139664, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/3a2b317c-81a1-11eb-a260-98f2b3043b75/xela_server-3.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[10/03/2021 16:27:05.149]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[10/03/2021 16:27:40.895]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[10/03/2021 16:27:41.080]	:XELA:start:XELA:
+[10/03/2021 16:27:41.080]	File: /home/kiyanoush/.ros
+[10/03/2021 16:27:41.081]	ARGS: {'failures': [(1615393661.0684478, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/3a2b317c-81a1-11eb-a260-98f2b3043b75/xela_server-5.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[10/03/2021 16:27:41.081]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[10/03/2021 16:29:42.921]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[10/03/2021 16:29:43.174]	:XELA:start:XELA:
+[10/03/2021 16:29:43.174]	File: /home/kiyanoush/.ros
+[10/03/2021 16:29:43.174]	ARGS: {'failures': [(1615393783.1626465, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/3a2b317c-81a1-11eb-a260-98f2b3043b75/xela_server-5.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[10/03/2021 16:29:43.174]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[10/03/2021 16:36:50.827]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[10/03/2021 16:36:51.143]	:XELA:start:XELA:
+[10/03/2021 16:36:51.143]	File: /home/kiyanoush/.ros
+[10/03/2021 16:36:51.143]	ARGS: {'failures': [(1615394211.1258957, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/3a2b317c-81a1-11eb-a260-98f2b3043b75/xela_server-5.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[10/03/2021 16:36:51.144]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[10/03/2021 16:59:57.939]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[10/03/2021 16:59:58.149]	:XELA:start:XELA:
+[10/03/2021 16:59:58.149]	File: /home/kiyanoush/.ros
+[10/03/2021 16:59:58.149]	ARGS: {'failures': [(1615395598.1384528, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/3a2b317c-81a1-11eb-a260-98f2b3043b75/xela_server-5.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[10/03/2021 16:59:58.150]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[11/03/2021 15:12:12.882]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[11/03/2021 15:12:13.024]	:XELA:start:XELA:
+[11/03/2021 15:12:13.024]	File: /home/kiyanoush/.ros
+[11/03/2021 15:12:13.024]	ARGS: {'failures': [(1615475533.0141766, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/2659b750-827c-11eb-baea-98f2b3043b76/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[11/03/2021 15:12:13.024]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[11/03/2021 15:16:09.315]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[11/03/2021 15:16:09.460]	:XELA:start:XELA:
+[11/03/2021 15:16:09.460]	File: /home/kiyanoush/.ros
+[11/03/2021 15:16:09.460]	ARGS: {'failures': [(1615475769.4519644, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/b3697766-827c-11eb-baea-98f2b3043b76/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[11/03/2021 15:16:09.460]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[11/03/2021 15:20:16.338]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[11/03/2021 15:20:16.486]	:XELA:start:XELA:
+[11/03/2021 15:20:16.486]	File: /home/kiyanoush/.ros
+[11/03/2021 15:20:16.486]	ARGS: {'failures': [(1615476016.47835, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/46b21154-827d-11eb-baea-98f2b3043b76/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[11/03/2021 15:20:16.486]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[11/03/2021 15:21:26.872]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[11/03/2021 15:21:27.017]	:XELA:start:XELA:
+[11/03/2021 15:21:27.017]	File: /home/kiyanoush/.ros
+[11/03/2021 15:21:27.017]	ARGS: {'failures': [(1615476087.009043, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/70b6dd68-827d-11eb-baea-98f2b3043b76/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[11/03/2021 15:21:27.017]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[11/03/2021 15:27:27.551]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[11/03/2021 15:27:27.698]	:XELA:start:XELA:
+[11/03/2021 15:27:27.698]	File: /home/kiyanoush/.ros
+[11/03/2021 15:27:27.698]	ARGS: {'failures': [(1615476447.6900134, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/47ba0d12-827e-11eb-baea-98f2b3043b76/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[11/03/2021 15:27:27.698]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[11/03/2021 15:30:18.119]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[11/03/2021 15:30:18.265]	:XELA:start:XELA:
+[11/03/2021 15:30:18.266]	File: /home/kiyanoush/.ros
+[11/03/2021 15:30:18.266]	ARGS: {'failures': [(1615476618.2576814, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/ad626b64-827e-11eb-baea-98f2b3043b76/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[11/03/2021 15:30:18.266]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[12/03/2021 12:13:38.672]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[12/03/2021 12:13:38.818]	:XELA:start:XELA:
+[12/03/2021 12:13:38.818]	File: /home/kiyanoush/.ros
+[12/03/2021 12:13:38.818]	ARGS: {'failures': [(1615551218.8083942, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/5ea1f1b2-832c-11eb-be06-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[12/03/2021 12:13:38.818]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[12/03/2021 13:17:15.243]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[12/03/2021 13:17:15.386]	:XELA:start:XELA:
+[12/03/2021 13:17:15.386]	File: /home/kiyanoush/.ros
+[12/03/2021 13:17:15.386]	ARGS: {'failures': [(1615555035.3785267, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/41a243c4-8335-11eb-be06-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[12/03/2021 13:17:15.387]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[12/03/2021 14:43:20.212]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[12/03/2021 14:43:20.360]	:XELA:start:XELA:
+[12/03/2021 14:43:20.360]	File: /home/kiyanoush/.ros
+[12/03/2021 14:43:20.360]	ARGS: {'failures': [(1615560200.3514624, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/482ceca6-8341-11eb-be06-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[12/03/2021 14:43:20.360]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[12/03/2021 17:09:32.250]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[12/03/2021 17:09:32.397]	:XELA:start:XELA:
+[12/03/2021 17:09:32.397]	File: /home/kiyanoush/.ros
+[12/03/2021 17:09:32.397]	ARGS: {'failures': [(1615568972.3891, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/b4b5305e-8355-11eb-be06-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[12/03/2021 17:09:32.397]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[17/03/2021 14:03:00.044]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[17/03/2021 14:03:00.190]	:XELA:start:XELA:
+[17/03/2021 14:03:00.190]	File: /home/kiyanoush/.ros
+[17/03/2021 14:03:00.190]	ARGS: {'failures': [(1615989780.1820908, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/7986fbca-8729-11eb-9c89-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[17/03/2021 14:03:00.190]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[17/03/2021 14:04:53.702]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[17/03/2021 14:04:53.852]	:XELA:start:XELA:
+[17/03/2021 14:04:53.852]	File: /home/kiyanoush/.ros
+[17/03/2021 14:04:53.852]	ARGS: {'failures': [(1615989893.844395, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/bd5163cc-8729-11eb-9c89-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[17/03/2021 14:04:53.853]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[17/03/2021 14:19:49.995]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[17/03/2021 14:19:50.141]	:XELA:start:XELA:
+[17/03/2021 14:19:50.141]	File: /home/kiyanoush/.ros
+[17/03/2021 14:19:50.141]	ARGS: {'failures': [(1615990790.1333559, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/d3ebc706-872b-11eb-9c89-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[17/03/2021 14:19:50.141]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[17/03/2021 14:23:09.229]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[17/03/2021 14:23:09.443]	:XELA:start:XELA:
+[17/03/2021 14:23:09.443]	File: /home/kiyanoush/.ros
+[17/03/2021 14:23:09.443]	ARGS: {'failures': [(1615990989.432394, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/4a9ea9e0-872c-11eb-9c89-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[17/03/2021 14:23:09.443]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[17/03/2021 14:31:51.382]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[17/03/2021 14:31:51.529]	:XELA:start:XELA:
+[17/03/2021 14:31:51.529]	File: /home/kiyanoush/.ros
+[17/03/2021 14:31:51.529]	ARGS: {'failures': [(1615991511.5202696, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/81dd6454-872d-11eb-9c89-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[17/03/2021 14:31:51.529]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[17/03/2021 14:41:21.389]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[17/03/2021 14:41:21.540]	:XELA:start:XELA:
+[17/03/2021 14:41:21.540]	File: /home/kiyanoush/.ros
+[17/03/2021 14:41:21.540]	ARGS: {'failures': [(1615992081.5314631, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/d58e6ffc-872e-11eb-9c89-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[17/03/2021 14:41:21.541]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[17/03/2021 14:41:41.191]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[17/03/2021 14:41:41.371]	:XELA:start:XELA:
+[17/03/2021 14:41:41.372]	File: /home/kiyanoush/.ros
+[17/03/2021 14:41:41.372]	ARGS: {'failures': [(1615992101.363111, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/e162a19a-872e-11eb-9c89-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[17/03/2021 14:41:41.372]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[17/03/2021 14:49:08.973]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[17/03/2021 14:49:09.155]	:XELA:start:XELA:
+[17/03/2021 14:49:09.155]	File: /home/kiyanoush/.ros
+[17/03/2021 14:49:09.155]	ARGS: {'failures': [(1615992549.1465268, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/ec45c6ae-872f-11eb-9c89-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[17/03/2021 14:49:09.155]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[17/03/2021 15:02:47.930]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[17/03/2021 15:02:48.100]	:XELA:start:XELA:
+[17/03/2021 15:02:48.100]	File: /home/kiyanoush/.ros
+[17/03/2021 15:02:48.100]	ARGS: {'failures': [(1615993368.0921178, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/d4331132-8731-11eb-9c89-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[17/03/2021 15:02:48.100]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[17/03/2021 15:06:46.375]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[17/03/2021 15:06:46.541]	:XELA:start:XELA:
+[17/03/2021 15:06:46.541]	File: /home/kiyanoush/.ros
+[17/03/2021 15:06:46.541]	ARGS: {'failures': [(1615993606.5326662, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/62578af6-8732-11eb-9c89-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[17/03/2021 15:06:46.541]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
+[17/03/2021 15:46:34.916]	New log file: /etc/xela/LOG/xela_server -> /etc/xela/LOG/xela_server.log
+
+[17/03/2021 15:46:35.078]	:XELA:start:XELA:
+[17/03/2021 15:46:35.078]	File: /home/kiyanoush/.ros
+[17/03/2021 15:46:35.078]	ARGS: {'failures': [(1615995995.0687752, 'ros')], 'file': '/etc/xela/xServ.ini', 'port': 5000, 'ip': '127.0.0.1', 'log': '/etc/xela/LOG/xserv.log', 'csv': '/etc/xela/CSV', 'noros': True, 'timeout': False, 'debug': False, 'roslog': '/home/kiyanoush/.ros/log/f1f3e4a2-8737-11eb-9c89-98f2b3043b75/xela_server-6.log', 'rosname': 'xela_server', 'osname': 'Ubuntu 16.04 (xenial)', 'appver': '1.6.0_33103'}
+[17/03/2021 15:46:35.078]	EXEC: /home/kiyanoush/test_ws/src/xela_server/scripts/xela_server
