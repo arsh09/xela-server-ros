@@ -9,4 +9,19 @@
     <param name="param" value="$(arg d)"/>
     <node pkg="xela_server" type="xela_server" name="xela_server" required="true" args="-f $(arg file) --port $(arg port) --ip $(arg ip)" />
     <node pkg="xela_server" type="xela_service" name="xela_service" respawn="true" args="--port $(arg port) --ip $(arg ip) -d $(arg d)" />
+
+    <node pkg="rqt_plot" type="rqt_plot" name="xela_rqt_plot" respawn="false" args=" 
+        /xServTopic/points[0]/point/z
+        /xServTopic/points[1]/point/z
+        /xServTopic/points[2]/point/z
+        /xServTopic/points[3]/point/z
+        /xServTopic/points[4]/point/z
+        /xServTopic/points[5]/point/z
+        /xServTopic/points[6]/point/z
+        /xServTopic/points[7]/point/z
+        /xServTopic/points[8]/point/z
+        /xServTopic/points[9]/point/z
+    "
+    />
+
 </launch>

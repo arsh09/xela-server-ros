@@ -65,3 +65,94 @@ print(service_example)
 #close the app 
 sys.exit(0)
 ```
+
+
+-----------------------------
+### Changes
+
+There are few changes in this repository as oppose to (offcial) xelo-server-ros package: 
+
+1 - RQT plot is added in the service.launch file 
+2 - Message type is changed to use arrays instead
+
+### Future improvements 
+
+1 - Change message type to visualization_msgs/MarkerArray for RViz visualization
+
+### How to set up (with VSCOM-USB-CAN): 
+
+1 - Copy the xela folder to /etc/xela/ 
+2 - Add xela folder in the path: 
+
+```bash
+$ sudo gedit ~/.bashrc
+$ export PATH="/etc/xela/"
+$ sudo chmod +777 /etc/xela
+```
+
+3 - Connect VSCom USB-CAN and power USB to your computer/laptop 
+4 - Check if USB-serial was recognised 
+
+``` bash
+$ dmesg
+$ ls /dev/ttyUSB*
+```
+
+5 - Last command should give at least one USB-serial as /dev/ttyUSB0. 
+6 - Run these two commands to make a CAN-network
+
+```bash
+$ sudo slcand -o -s8 -t hw -S 3000000 /dev/ttyUSB0
+$ sudo ifconfig slcan0 up
+```
+
+7 - The above command considers that your USB is on /dev/ttyUSB0 
+8 - Check if the network was added 
+
+```bash
+$ ifconfig 
+$ candump slcan0
+```
+
+9 - Change the server file configuration as follow: 
+
+```bash
+$ sudo nano /etc/xela/xServ.ini
+```
+
+```nano
+[CAN]
+bustype = socketcan
+channel = slcan0
+[viz]
+max_offset = 200
+max_size = 500
+[debug]
+sens_print = full
+[sensor]
+num_brd = 1
+ctr_ver = 2
+ctrl_id = 2
+model = XR1946
+channel = 0
+```
+
+10 - Run the configuration as follow: (make sure you make the xela_config, xela_server, xela_viz executable)
+
+```bash
+$ cd /etc/xela 
+$ sudo chmod +X xela_config xela_server xela_viz xela_log
+$ ./xela_config 
+```
+
+11 - Go to your workspace and launch the file as follow: 
+
+```bash 
+$ cd /path/to/catkin/ws/
+$ catkin_make (or catkin build) 
+$ source devel/setup.bash
+$ roslaunch xelo_server service.launch
+```
+
+12 - You should see that rqt_plot starts plotting the first 10-points z-axis value. Press the sensor and it should change the values. 
+
